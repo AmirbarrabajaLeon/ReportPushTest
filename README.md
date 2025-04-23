@@ -18,11 +18,11 @@ El entorno de desarrollo fue configurado utilizando herramientas ampliamente ado
 ### 5.1.2. Source Code Management.
 Se utilizó Git como sistema de control de versiones y GitHub como plataforma de hospedaje. El proyecto fue dividido en múltiples repositorios:
 
-Landing Page: https://github.com/flow-sense/landing
+Landing Page: https://github.com/flow-sense/landing (link de ejemplo)
 
-Web Services: https://github.com/flow-sense/api
+Web Services: https://github.com/flow-sense/api (link de ejemplo)
 
-Frontend Web App: https://github.com/flow-sense/frontend
+Frontend Web App: https://github.com/flow-sense/frontend (link de ejemplo)
 
 Se adoptó el workflow GitFlow, basado en el modelo de Vincent Driessen (“A successful Git branching model”), para organizar las ramas de trabajo. Este flujo permite una separación clara entre las versiones estables, los desarrollos activos y las correcciones urgentes. Las ramas empleadas son:
 
