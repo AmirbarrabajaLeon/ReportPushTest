@@ -207,7 +207,7 @@ Creemos que al fomentar la integración con dispositivos personales, Flow Sense 
 
 ### **1.2.2.4. Lean UX Canvas**
 
-<img src="https://www.canva.com/design/DAGlSAWqYtM/wJt0OiuvUztXeCyS9IxEJA/view"></img><br>
+![Image](https://github.com/user-attachments/assets/6746607f-0e05-47c2-997d-1a401f571b47)
 
 ---
 
