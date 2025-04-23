@@ -207,7 +207,7 @@ Creemos que al fomentar la integración con dispositivos personales, Flow Sense 
 
 ### **1.2.2.4. Lean UX Canvas**
 
-![Copia de EcoMovil Lean UX Canvas.jpg](https://www.canva.com/design/DAGlSAWqYtM/wJt0OiuvUztXeCyS9IxEJA/view)
+<img src="https://www.canva.com/design/DAGlSAWqYtM/wJt0OiuvUztXeCyS9IxEJA/view"></img><br>
 
 ---
 
