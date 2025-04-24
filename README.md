@@ -14,7 +14,8 @@ La **misión** de Flow Sense es transformar la manera en que las personas y las 
 
 ### **1.1.2. Perfiles de integrantes del equipo**
 
-- **Pietro Osres Marchese** – CEO & Product Owner: Estudiante de Ingeniería de Software apasionado por la innovación tecnológica y la creación de soluciones disruptivas para la vida laboral. Líder de visión del producto.
+
+- **Pietro Osores Marchese** – Soy estudiante de Ingeniería de Software con un fuerte interés en la innovación tecnológica y el diseño centrado en el usuario. Me considero una persona organizada, con habilidades para liderar y analizar problemas de forma estructurada. En este proyecto, me encargué de definir los perfiles del equipo, analizar los antecedentes del problema y desarrollar todo el enfoque Lean UX, estableciendo así las bases conceptuales de nuestra solución.
 - **Amir [Apellido]** – CTO: Responsable del desarrollo tecnológico, con experiencia en arquitectura de software, IoT y AI.
 - **Carlos [Apellido]** – UX/UI Designer: Diseñador centrado en la experiencia de usuario, encargado de construir interfaces intuitivas y accesibles.
 - **Stephano [Apellido]** – Backend Developer: Especialista en bases de datos, servidores y seguridad.
