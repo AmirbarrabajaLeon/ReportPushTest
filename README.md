@@ -182,10 +182,12 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 ## 2.3.1. User Personas 
 
 ### Segmento 1: Gerente
-![Imagen user gerente](ruta/a/la/imagen/gerente.jpg)  
+![User Persona Gerente](https://github.com/user-attachments/assets/886b8660-4432-48d7-9b8f-e2abbea3484b)
+
 
 ### Segmento 2: Freelancer  
-![Imagen user Freelancer](ruta/a/la/imagen/freelancer.jpg)  
+![User Persona Freelancer](https://github.com/user-attachments/assets/e3c71aec-4306-43db-ba76-27fe83f60070)
+
 
 ## 2.3.2. User Task Matrix  
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
@@ -217,30 +219,38 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 A continuación estarán los User Journey Mapping de los segmentos objetivos.
 
 ### Segmento gerente:
-![Imagen del segmento gerente](ruta/a/la/imagen-del-segmento-gerente)
+![Journey Ingrid](https://github.com/user-attachments/assets/8c2d9ce2-2aeb-452d-b226-868621609b97)
+
+
 
 ### Segmento freelancer:
-![Imagen del segmento freelancer](ruta/a/la/imagen-del-segmento-freelancer)
+![Journey Letizia](https://github.com/user-attachments/assets/743676ba-3202-43b4-9b5b-6ad59226ae27)
+
+
 
 
 # 2.3.4. Empathy Mapping  
 A continuación estarán los Empathy Mapping de los segmentos objetivos.
 
 ### Segmento gerente:
-![Imagen del segmento gerente](ruta/a/la/imagen-del-segmento-gerente)
+![Empathy Mapping Gerente](https://github.com/user-attachments/assets/45a39392-10f3-435c-809f-8cba68caafb8)
+
 
 ### Segmento freelancer:
-![Imagen del segmento freelancer](ruta/a/la/imagen-del-segmento-freelancer)
+![Empathy Mapping](https://github.com/user-attachments/assets/3b1eb95b-cdfa-4f3c-a61c-177ecfabe8bb)
+
 
 
 # 2.3.5. As-is Scenario Mapping  
 A continuación estarán los As-is Scenario Mapping de los segmentos objetivos.
 
 ### Segmento gerente:
-![Imagen del segmento gerente](ruta/a/la/imagen-del-segmento-gerente)
+![As-Is Gerente](https://github.com/user-attachments/assets/59ed1115-afe6-4d92-883f-15d11e7fa2a1)
+
 
 ### Segmento freelancer:
-![Imagen del segmento freelancer](ruta/a/la/imagen-del-segmento-freelancer)
+![As-Is Freelancer](https://github.com/user-attachments/assets/47603c12-14cd-4d50-9e69-3aca1bc003cd)
+
 
 
 # 2.4. Ubiquitous Language
