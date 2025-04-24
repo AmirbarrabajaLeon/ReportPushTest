@@ -208,3 +208,68 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 | Gestionar horarios de los empleados | High          | High           |
 | Ver la productividad en tiempo real | Medium        | High           |
 | Realizar pagos a empleados       | Medium        | High           |
+
+
+
+# 2.4. Ubiquitous Language
+
+### Flow Sense Platform (Plataforma Flow Sense):  
+Una plataforma tecnológica diseñada para la gestión del tiempo, la productividad y la eficiencia laboral, destinada a freelancers y empresas. Ofrece herramientas personalizadas como la automatización de tareas, el seguimiento de tiempo y la integración con asistentes de voz.
+
+### Freelancer (Freelancer):  
+Profesional independiente que gestiona proyectos y tareas de manera autónoma, utilizando plataformas como Flow Sense para optimizar su tiempo y productividad.
+
+### Team Management (Gestión de Equipo):  
+Proceso mediante el cual los gerentes o líderes de equipo asignan tareas, supervisan el progreso y gestionan el tiempo de sus empleados o colaboradores mediante plataformas digitales.
+
+### Time Tracking (Seguimiento de Tiempo):  
+Función que permite a los usuarios registrar automáticamente el tiempo invertido en tareas y proyectos, para mejorar la gestión del tiempo y aumentar la productividad.
+
+### Task Assignment (Asignación de Tareas):  
+El proceso de distribuir tareas específicas entre los miembros de un equipo para asegurar la organización y cumplimiento de plazos.
+
+### Real-Time Tracking (Seguimiento en Tiempo Real):  
+Herramienta que permite a los gerentes o freelancers monitorear la ubicación y el progreso de los proyectos en tiempo real, mejorando la visibilidad y control.
+
+### Workload Management (Gestión de Carga de Trabajo):  
+El proceso de equilibrar y distribuir las tareas entre el equipo de trabajo de manera eficiente para evitar la sobrecarga y asegurar la productividad.
+
+### Client Communication (Comunicación con el Cliente):  
+El proceso de interactuar con clientes para asegurar que sus necesidades sean atendidas, sus expectativas gestionadas y los proyectos completados a tiempo.
+
+### Payment Integration (Integración de Pagos):  
+Herramienta que permite a los freelancers y gerentes recibir pagos mediante plataformas de pago digital como PayPal o billeteras electrónicas, facilitando la gestión financiera.
+
+### Project Management (Gestión de Proyectos):  
+La organización y planificación de tareas, fechas de entrega y recursos necesarios para completar un proyecto, asegurando que se cumplan los objetivos en los plazos establecidos.
+
+### Performance Monitoring (Monitoreo de Desempeño):  
+El proceso mediante el cual se evalúa el progreso y rendimiento de los empleados o freelancers para mejorar la eficiencia y productividad a través de métricas y datos en tiempo real.
+
+### Time Optimization (Optimización del Tiempo):  
+El uso de herramientas y estrategias para mejorar la eficiencia en el uso del tiempo, permitiendo a los freelancers y gerentes realizar más tareas en menos tiempo.
+
+### Automatic Billing (Facturación Automática):  
+Sistema que genera y envía automáticamente las facturas a los clientes después de completar un trabajo o proyecto, simplificando la gestión financiera.
+
+### Team Collaboration (Colaboración en Equipo):  
+La interacción y cooperación entre miembros del equipo, facilitada por plataformas que permiten compartir tareas, avances y feedback de manera eficiente.
+
+### Productivity Analytics (Análisis de Productividad):  
+Herramientas que permiten analizar el rendimiento laboral de los empleados o freelancers, proporcionando datos sobre eficiencia, tareas completadas y áreas de mejora.
+
+### Client Feedback (Retroalimentación del Cliente):  
+Comentarios proporcionados por los clientes sobre el trabajo realizado, que ayudan a los freelancers y gerentes a mejorar la calidad del servicio y ajustar sus estrategias de trabajo.
+
+### Team Performance (Desempeño del Equipo):  
+Evaluación de la eficiencia y efectividad de un equipo en el cumplimiento de sus metas y tareas, basado en indicadores como la productividad, cumplimiento de plazos y calidad del trabajo.
+
+### User Retention (Retención de Usuarios):  
+Estrategias y herramientas utilizadas para mantener a los usuarios activos en la plataforma mediante la satisfacción continua de sus necesidades y la mejora constante de la experiencia del usuario.
+
+### Time Efficiency (Eficiencia del Tiempo):  
+El grado en que los usuarios pueden completar tareas y proyectos en el menor tiempo posible sin comprometer la calidad, optimizado mediante el uso de plataformas de gestión de tiempo.
+
+### Team Collaboration Tools (Herramientas de Colaboración de Equipo):  
+Herramientas digitales que permiten a los miembros de un equipo colaborar de manera efectiva, compartiendo tareas, actualizaciones y documentos, todo en tiempo real.
+
