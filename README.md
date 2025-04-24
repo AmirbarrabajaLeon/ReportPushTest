@@ -907,6 +907,6 @@ Para facilitar la localización de información sin búsqueda explícita:
 
 ## 4.8 Database Design
 
-## 4.8.1 Database Diagram
+### 4.8.1 Database Diagram
 
 
