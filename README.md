@@ -209,6 +209,34 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 | Ver la productividad en tiempo real | Medium        | High           |
 | Realizar pagos a empleados       | Medium        | High           |
 
+# 2.3.3. User Journey Mapping  
+A continuación estarán los User Journey Mapping de los segmentos objetivos.
+
+### Segmento gerente:
+![Imagen del segmento gerente](ruta/a/la/imagen-del-segmento-gerente)
+
+### Segmento freelancer:
+![Imagen del segmento freelancer](ruta/a/la/imagen-del-segmento-freelancer)
+
+
+# 2.3.4. Empathy Mapping  
+A continuación estarán los Empathy Mapping de los segmentos objetivos.
+
+### Segmento gerente:
+![Imagen del segmento gerente](ruta/a/la/imagen-del-segmento-gerente)
+
+### Segmento freelancer:
+![Imagen del segmento freelancer](ruta/a/la/imagen-del-segmento-freelancer)
+
+
+# 2.3.5. As-is Scenario Mapping  
+A continuación estarán los As-is Scenario Mapping de los segmentos objetivos.
+
+### Segmento gerente:
+![Imagen del segmento gerente](ruta/a/la/imagen-del-segmento-gerente)
+
+### Segmento freelancer:
+![Imagen del segmento freelancer](ruta/a/la/imagen-del-segmento-freelancer)
 
 
 # 2.4. Ubiquitous Language
