@@ -5,88 +5,36 @@
 Con el fin de crear el To-be Scenario Mapping, el equipo definió cómo se optimizaría el flujo de trabajo una vez que nuestra solución haya sido implementada para cada segmento objetivo. El propósito de este artefacto es analizar y mejorar los aspectos negativos identificados en el As-is Scenario.
 
 ### Segmento gerente:
-![Imagen del segmento gerente](ruta/a/la/imagen-del-segmento-gerente)
+![ToBe-Gerente](https://github.com/user-attachments/assets/b5deb120-a235-4828-9bea-c7be563d0f95)
+
 
 ### Segmento freelancer:
-![Imagen del segmento freelancer](ruta/a/la/imagen-del-segmento-freelancer)
+![ToBe-Freelancer](https://github.com/user-attachments/assets/447bc451-96cb-4e46-8e7e-886f08a1ce14)
+
 
 
 ## 3.2. User Stories
 
-# User Stories
-
-## Epic 1
-
-### E1-US01 - Registro de cuenta
-**Descripción**: Como freelancer o gerente, quiero registrarme en la plataforma para gestionar mis proyectos.  
-**Criterios de Aceptación**:  
-**Escenario 1: Registro con Email**  
-Dado que el usuario está en la página de registro,  
-Cuando ingrese sus datos correctamente,  
-Entonces la cuenta será creada.  
-**Escenario 2: Registro con Google**  
-Dado que el usuario está en la página de registro,  
-Cuando elija registrarse con Google,  
-Entonces se creará la cuenta vinculada a Google.  
-
----
-
-### E1-US02 - Inicio de sesión
-**Descripción**: Como freelancer, quiero iniciar sesión en la plataforma para gestionar mis proyectos y clientes.  
-**Criterios de Aceptación**:  
-**Escenario 1: Inicio de sesión correcto**  
-Dado que el usuario tiene una cuenta,  
-Cuando ingrese sus datos correctamente,  
-Entonces iniciará sesión en la plataforma.  
-**Escenario 2: Inicio de sesión incorrecto**  
-Dado que el usuario tiene una cuenta,  
-Cuando ingrese datos incorrectos,  
-Entonces recibirá un mensaje de error.  
-
----
-
-### E1-US03 - Gestión de proyectos
-**Descripción**: Como freelancer, quiero gestionar mis proyectos para cumplir con los plazos establecidos.  
-**Criterios de Aceptación**:  
-**Escenario 1: Gestión de proyectos**  
-Dado que el freelancer está en su panel,  
-Cuando agregue un nuevo proyecto,  
-Entonces podrá asignar fechas y plazos.  
-**Escenario 2: Recordatorio de plazos**  
-Dado que el freelancer tiene proyectos,  
-Cuando se acerque el plazo de entrega,  
-Entonces recibirá un recordatorio.  
-
----
-
-### E1-US04 - Notificaciones de cliente
-**Descripción**: Como freelancer, quiero recibir notificaciones cuando un cliente haga comentarios en un proyecto para poder responder rápidamente.  
-**Criterios de Aceptación**:  
-**Escenario 1: Notificación de comentario**  
-Dado que el usuario tiene proyectos activos,  
-Cuando un cliente deje un comentario,  
-Entonces recibirá una notificación.  
-**Escenario 2: Notificación de retroalimentación**  
-Dado que el freelancer tiene proyectos,  
-Cuando un cliente deje retroalimentación,  
-Entonces será notificado.  
-
----
-
-### E1-US05 - Control de pagos
-**Descripción**: Como freelancer, quiero gestionar los pagos para que se realicen sin problemas.  
-**Criterios de Aceptación**:  
-**Escenario 1: Generación de factura**  
-Dado que el freelancer ha completado un proyecto,  
-Cuando genere la factura,  
-Entonces la plataforma calculará automáticamente el monto a cobrar.  
-**Escenario 2: Envío automático de factura**  
-Dado que la factura se generó,  
-Cuando se finalice,  
-Entonces se enviará automáticamente al cliente.  
-
----
-
-## Epic 2
-
-### E2-US06 - Asignación
+| **Epic/User Story ID** | **Título**                       | **Descripción**  | **Escenarios** |
+|------------------------|----------------------------------|------------------|----------------|
+| E1-US01                | Registro de cuenta               | Como freelancer o gerente, quiero registrarme en la plataforma para gestionar mis proyectos. | **Escenario 1: Registro con Email**<br> Dado que el usuario está en la página de registro, <br>Cuando ingrese sus datos correctamente, <br>Entonces la cuenta será creada. <br><br> **Escenario 2: Registro con Google** <br> Dado que el usuario está en la página de registro, <br>Cuando elija registrarse con Google, <br>Entonces se creará la cuenta vinculada a Google. |
+| E1-US02                | Inicio de sesión                 | Como freelancer, quiero iniciar sesión en la plataforma para gestionar mis proyectos y clientes. | **Escenario 1: Inicio de sesión correcto**<br> Dado que el usuario tiene una cuenta, <br>Cuando ingrese sus datos correctamente, <br>Entonces iniciará sesión en la plataforma. <br><br> **Escenario 2: Inicio de sesión incorrecto** <br> Dado que el usuario tiene una cuenta, <br>Cuando ingrese datos incorrectos, <br>Entonces recibirá un mensaje de error. |
+| E1-US03                | Gestión de proyectos             | Como freelancer, quiero gestionar mis proyectos para cumplir con los plazos establecidos. | **Escenario 1: Gestión de proyectos** <br> Dado que el freelancer está en su panel, <br>Cuando agregue un nuevo proyecto, <br>Entonces podrá asignar fechas y plazos. <br><br> **Escenario 2: Recordatorio de plazos** <br> Dado que el freelancer tiene proyectos, <br>Cuando se acerque el plazo de entrega, <br>Entonces recibirá un recordatorio. |
+| E1-US04                | Notificaciones de cliente        | Como freelancer, quiero recibir notificaciones cuando un cliente haga comentarios en un proyecto para poder responder rápidamente. | **Escenario 1: Notificación de comentario** <br> Dado que el usuario tiene proyectos activos, <br>Cuando un cliente deje un comentario, <br>Entonces recibirá una notificación. <br><br> **Escenario 2: Notificación de retroalimentación** <br> Dado que el freelancer tiene proyectos, <br>Cuando un cliente deje retroalimentación, <br>Entonces será notificado. |
+| E1-US05                | Control de pagos                 | Como freelancer, quiero gestionar los pagos para que se realicen sin problemas. | **Escenario 1: Generación de factura** <br> Dado que el freelancer ha completado un proyecto, <br>Cuando genere la factura, <br>Entonces la plataforma calculará automáticamente el monto a cobrar. <br><br> **Escenario 2: Envío automático de factura** <br> Dado que la factura se generó, <br>Cuando se finalice, <br>Entonces se enviará automáticamente al cliente. |
+| E2-US06                | Asignación de tareas             | Como gerente, quiero asignar tareas a mi equipo para llevar un seguimiento del progreso. | **Escenario 1: Asignación de tareas** <br> Dado que el gerente está en la plataforma, <br>Cuando asigne una tarea a un miembro, <br>Entonces será visible para ese miembro. <br><br> **Escenario 2: Supervisión del progreso** <br> Dado que el gerente tiene tareas asignadas, <br>Cuando un miembro complete una tarea, <br>Entonces el progreso se actualizará. |
+| E2-US07                | Control de horarios              | Como gerente, quiero controlar los horarios de entrada y salida de los empleados para mejorar la gestión. | **Escenario 1: Control de entrada** <br> Dado que el empleado llega, <br>Cuando marque su entrada, <br>Entonces se registrará la hora de inicio. <br><br> **Escenario 2: Control de salida** <br> Dado que el empleado termina su jornada, <br>Cuando marque su salida, <br>Entonces se registrará la hora de salida. |
+| E2-US08                | Supervisión en tiempo real       | Como gerente, quiero ver la ubicación en tiempo real de mis empleados para mejorar la supervisión. | **Escenario 1: Supervisión de ubicación** <br> Dado que el gerente necesita supervisar, <br>Cuando active la opción de supervisión, <br>Entonces podrá ver la ubicación actual de los empleados. <br><br> **Escenario 2: Actualización en tiempo real** <br> Dado que el gerente está supervisando, <br>Cuando los empleados se desplacen, <br>Entonces la ubicación se actualizará en tiempo real. |
+| E2-US09                | Integración de pagos             | Como freelancer, quiero recibir pagos mediante billeteras digitales para gestionar mis finanzas rápidamente. | **Escenario 1: Recibo de pago** <br> Dado que el freelancer tiene un pago pendiente, <br>Cuando reciba un pago a través de billetera, <br>Entonces el pago se reflejará en su cuenta. <br><br> **Escenario 2: Confirmación de pago** <br> Dado que el freelancer ha recibido un pago, <br>Cuando se valide la transacción, <br>Entonces recibirá una confirmación por correo electrónico. |
+| E2-US10                | Registro de clientes             | Como freelancer, quiero registrar a mis clientes para organizar mejor mis proyectos. | **Escenario 1: Registro de cliente** <br> Dado que el freelancer tiene un cliente, <br>Cuando lo registre en la plataforma, <br>Entonces podrá agregar proyectos relacionados a ese cliente. <br><br> **Escenario 2: Edición de cliente** <br> Dado que el freelancer tiene un cliente registrado, <br>Cuando edite sus datos, <br>Entonces se actualizarán automáticamente en su perfil. |
+| E3-US11                | Facturación automática           | Como freelancer, quiero que la facturación se haga de manera automática para ahorrar tiempo. | **Escenario 1: Generación de factura** <br> Dado que el freelancer ha completado un proyecto, <br>Cuando genere la factura, <br>Entonces la plataforma calculará automáticamente el monto a cobrar. <br><br> **Escenario 2: Envío automático de factura** <br> Dado que la factura se generó, <br>Cuando se finalice, <br>Entonces se enviará automáticamente al cliente. <br><br> **Escenario 3: Verificación de pago** <br> Dado que el freelancer ha generado la factura, <br>Cuando reciba el pago, <br>Entonces se actualizará su estado a "Pago recibido". |
+| E3-US12                | Soporte técnico                  | Como freelancer, quiero tener acceso a soporte técnico para resolver problemas rápidamente. | **Escenario 1: Contactar soporte** <br> Dado que el freelancer tiene un problema, <br>Cuando haga clic en el soporte, <br>Entonces podrá enviar una solicitud de ayuda. <br><br> **Escenario 2: Respuesta rápida** <br> Dado que el freelancer ha contactado soporte, <br>Cuando envíe su mensaje, <br>Entonces recibirá una respuesta dentro de las 24 horas. |
+| E3-US13                | Personalización de plataforma    | Como freelancer, quiero personalizar la interfaz de la plataforma para adaptarla a mis necesidades. | **Escenario 1: Cambiar tema de la plataforma** <br> Dado que el freelancer está en la plataforma, <br>Cuando seleccione un tema, <br>Entonces la interfaz se cambiará automáticamente. <br><br> **Escenario 2: Personalización de panel** <br> Dado que el freelancer tiene la plataforma, <br>Cuando personalice su panel, <br>Entonces se mostrarán las opciones que eligió. |
+| E4-US14                | Añadir empleados a equipo        | Como gerente, quiero agregar empleados a mi equipo para distribuir tareas eficientemente. | **Escenario 1: Añadir nuevo miembro** <br> Dado que el gerente está en la plataforma, <br>Cuando ingrese el correo electrónico de un nuevo empleado, <br>Entonces se agregará al equipo. <br><br> **Escenario 2: Asignación de roles** <br> Dado que el gerente ha añadido un empleado, <br>Cuando asigne un rol, <br>Entonces el empleado recibirá el rol asignado. |
+| E4-US15                | Gestión de horarios de empleados | Como gerente, quiero gestionar los horarios de mi equipo para asegurarnos de cumplir con los plazos. | **Escenario 1: Configuración de horarios** <br> Dado que el gerente está en la plataforma, <br>Cuando asigne horarios a los empleados, <br>Entonces los horarios se reflejarán en su calendario. <br><br> **Escenario 2: Notificación de cambios en horarios** <br> Dado que el gerente cambió los horarios, <br>Cuando se haga el ajuste, <br>Entonces los empleados recibirán una notificación del cambio. |
+| E5-US16                | Control de productividad en tiempo real | Como gerente, quiero ver la productividad de los empleados en tiempo real para mejorar la toma de decisiones. | **Escenario 1: Monitoreo de actividad** <br> Dado que el gerente está supervisando, <br>Cuando acceda a la plataforma, <br>Entonces podrá ver la productividad en tiempo real. <br><br> **Escenario 2: Notificación de inactividad** <br> Dado que el gerente está monitoreando, <br>Cuando un empleado esté inactivo, <br>Entonces recibirá una notificación sobre la inactividad. |
+| E5-US17                | Control de pago a empleados      | Como gerente, quiero gestionar los pagos de los empleados desde la plataforma para mayor eficiencia. | **Escenario 1: Generación de pago** <br> Dado que el gerente ha completado una tarea, <br>Cuando ingrese el monto correspondiente, <br>Entonces se generará automáticamente el pago. <br><br> **Escenario 2: Envío de pago** <br> Dado que el gerente ha generado un pago, <br>Cuando lo confirme, <br>Entonces se enviará al empleado. |
+| E6-US18                | Recibir actualizaciones automáticas | Como freelancer, quiero recibir actualizaciones automáticas sobre el estado de mis proyectos. | **Escenario 1: Notificación de avance** <br> Dado que el freelancer tiene proyectos, <br>Cuando haya un avance, <br>Entonces recibirá una notificación. <br><br> **Escenario 2: Resumen diario** <br> Dado que el freelancer está trabajando, <br>Cuando termine el día, <br>Entonces recibirá un resumen automático de sus actividades. |
+| E6-US19                | Historial de pagos               | Como freelancer, quiero revisar un historial de mis pagos para tener un mejor control financiero. | **Escenario 1: Ver pagos pasados** <br> Dado que el freelancer está en su perfil, <br>Cuando ingrese a la sección de pagos, <br>Entonces podrá ver todos los pagos recibidos. <br><br> **Escenario 2: Filtrar por fecha** <br> Dado que el freelancer tiene pagos, <br>Cuando seleccione una fecha específica, <br>Entonces podrá ver los pagos correspondientes. |
+| E7-US20                | Crear reporte de desempeño       | Como gerente, quiero generar reportes de desempeño de mis empleados. | **Escenario 1: Generar reporte** <br> Dado que el gerente está en la plataforma, <br>Cuando seleccione la opción de generar reporte, <br>Entonces podrá descargarlo en formato PDF. <br><br> **Escenario 2: Filtrar reporte** <br> Dado que el gerente está generando un reporte, <br>Cuando seleccione un rango de fechas, <br>Entonces el reporte se ajustará a esa selección. |
+| E7-US21                | Control de productividad por equipo | Como gerente, quiero ver la productividad de cada equipo por separado. | **Escenario 1: Filtrar por equipo** <br> Dado que el gerente tiene equipos asignados, <br>Cuando filtre por equipo, <br>Entonces podrá ver la productividad de ese equipo. <br><br> **Escenario 2: Ver comparativa** <br> Dado que el gerente tiene varios equipos, <br>Cuando compare, <br>Entonces podrá visualizar las diferencias de productividad entre ellos. |
