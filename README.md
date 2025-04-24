@@ -19,7 +19,7 @@ La **misión** de Flow Sense es transformar la manera en que las personas y las 
 - **Amir Castro** – CTO: Responsable del desarrollo tecnológico, con experiencia en arquitectura de software, IoT y AI.
 - **Carlos [Apellido]** – UX/UI Designer: Diseñador centrado en la experiencia de usuario, encargado de construir interfaces intuitivas y accesibles.
 - **Stephano [Apellido]** – Backend Developer: Especialista en bases de datos, servidores y seguridad.
-- **Joaquín [Apellido]** – Data Analyst & IA Specialist: Enfocado en la recolección, procesamiento y análisis de datos, así como en la implementación de inteligencia artificial para el sistema.
+- **Joaquín Carranza** – Hola, soy Joaquín Carranza. Tengo 24 años y actualmente curso el sexto ciclo de la carrera de Ingeniería de Software. Me gusta la tecnología y la forma en que ayuda a las personas a resolver problemas de manera más rápida y eficiente. Me interesa especialmente el manejo de datos y la ciberseguridad. Siento que puedo aportar a mi equipo ideas desde otra perspectiva, ya que siempre me cuestiono cómo se podría mejorar el producto o hacia qué objetivo estamos apuntando.
 
 ## **1.2.2. Lean UX Process**
 
