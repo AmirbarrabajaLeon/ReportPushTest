@@ -38,3 +38,42 @@ Con el fin de crear el To-be Scenario Mapping, el equipo definió cómo se optim
 | E6-US19                | Historial de pagos               | Como freelancer, quiero revisar un historial de mis pagos para tener un mejor control financiero. | **Escenario 1: Ver pagos pasados** <br> Dado que el freelancer está en su perfil, <br>Cuando ingrese a la sección de pagos, <br>Entonces podrá ver todos los pagos recibidos. <br><br> **Escenario 2: Filtrar por fecha** <br> Dado que el freelancer tiene pagos, <br>Cuando seleccione una fecha específica, <br>Entonces podrá ver los pagos correspondientes. |
 | E7-US20                | Crear reporte de desempeño       | Como gerente, quiero generar reportes de desempeño de mis empleados. | **Escenario 1: Generar reporte** <br> Dado que el gerente está en la plataforma, <br>Cuando seleccione la opción de generar reporte, <br>Entonces podrá descargarlo en formato PDF. <br><br> **Escenario 2: Filtrar reporte** <br> Dado que el gerente está generando un reporte, <br>Cuando seleccione un rango de fechas, <br>Entonces el reporte se ajustará a esa selección. |
 | E7-US21                | Control de productividad por equipo | Como gerente, quiero ver la productividad de cada equipo por separado. | **Escenario 1: Filtrar por equipo** <br> Dado que el gerente tiene equipos asignados, <br>Cuando filtre por equipo, <br>Entonces podrá ver la productividad de ese equipo. <br><br> **Escenario 2: Ver comparativa** <br> Dado que el gerente tiene varios equipos, <br>Cuando compare, <br>Entonces podrá visualizar las diferencias de productividad entre ellos. |
+
+### 3.3. Impact Mapping.
+
+### Segmento gerente:
+![Impact Gerente](https://github.com/user-attachments/assets/9413c590-87a8-45a4-834a-07891fbcd4e9)
+
+
+
+### Segmento freelancer:
+![Impact Freelancer](https://github.com/user-attachments/assets/f42cef67-6e4c-4f2c-83e6-afd0457ba5ee)
+
+
+### 3.4. Product Backlog.
+
+# Product Backlog
+
+| **Orden** | **User Story ID** | **Título**                         | **Descripción**                                                                                                                                          | **Prioridad** | **Story Points** |
+|-----------|-------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|
+| 1         | E1-US01           | Registro de cuenta                 | Como freelancer o gerente, quiero registrarme en la plataforma para gestionar mis proyectos.                                                             | Alta          | 3                |
+| 2         | E1-US02           | Inicio de sesión                   | Como freelancer, quiero iniciar sesión en la plataforma para gestionar mis proyectos y clientes.                                                         | Alta          | 3                |
+| 3         | E1-US03           | Gestión de proyectos               | Como freelancer, quiero gestionar mis proyectos para cumplir con los plazos establecidos.                                                               | Alta          | 5                |
+| 4         | E1-US04           | Notificaciones de cliente          | Como freelancer, quiero recibir notificaciones cuando un cliente haga comentarios en un proyecto para poder responder rápidamente.                         | Alta          | 3                |
+| 5         | E1-US05           | Control de pagos                   | Como freelancer, quiero gestionar los pagos para que se realicen sin problemas.                                                                          | Alta          | 5                |
+| 6         | E2-US06           | Asignación de tareas               | Como gerente, quiero asignar tareas a mi equipo para llevar un seguimiento del progreso.                                                                  | Alta          | 3                |
+| 7         | E2-US07           | Control de horarios                | Como gerente, quiero controlar los horarios de entrada y salida de los empleados para mejorar la gestión.                                                 | Alta          | 5                |
+| 8         | E2-US08           | Supervisión en tiempo real         | Como gerente, quiero ver la ubicación en tiempo real de mis empleados para mejorar la supervisión.                                                        | Alta          | 8                |
+| 9         | E2-US09           | Integración de pagos               | Como freelancer, quiero recibir pagos mediante billeteras digitales para gestionar mis finanzas rápidamente.                                              | Alta          | 5                |
+| 10        | E2-US10           | Registro de clientes               | Como freelancer, quiero registrar a mis clientes para organizar mejor mis proyectos.                                                                    | Alta          | 3                |
+| 11        | E3-US11           | Facturación automática             | Como freelancer, quiero que la facturación se haga de manera automática para ahorrar tiempo.                                                             | Alta          | 5                |
+| 12        | E3-US12           | Soporte técnico                    | Como freelancer, quiero tener acceso a soporte técnico para resolver problemas rápidamente.                                                              | Baja          | 2                |
+| 13        | E3-US13           | Personalización de plataforma      | Como freelancer, quiero personalizar la interfaz de la plataforma para adaptarla a mis necesidades.                                                       | Baja          | 2                |
+| 14        | E4-US14           | Añadir empleados a equipo          | Como gerente, quiero agregar empleados a mi equipo para distribuir tareas eficientemente.                                                                | Alta          | 3                |
+| 15        | E4-US15           | Gestión de horarios de empleados   | Como gerente, quiero gestionar los horarios de mi equipo para asegurarnos de cumplir con los plazos.                                                      | Alta          | 5                |
+| 16        | E5-US16           | Control de productividad en tiempo real | Como gerente, quiero ver la productividad de los empleados en tiempo real para mejorar la toma de decisiones.                                              | Alta          | 8                |
+| 17        | E5-US17           | Control de pago a empleados        | Como gerente, quiero gestionar los pagos de los empleados desde la plataforma para mayor eficiencia.                                                      | Alta          | 5                |
+| 18        | E6-US18           | Recibir actualizaciones automáticas | Como freelancer, quiero recibir actualizaciones automáticas sobre el estado de mis proyectos.                                                              | Baja          | 2                |
+| 19        | E6-US19           | Historial de pagos                 | Como freelancer, quiero revisar un historial de mis pagos para tener un mejor control financiero.                                                        | Alta          | 3                |
+| 20        | E7-US20           | Crear reporte de desempeño         | Como gerente, quiero generar reportes de desempeño de mis empleados.                                                                                     | Alta          | 5                |
+| 21        | E7-US21           | Control de productividad por equipo | Como gerente, quiero ver la productividad de cada equipo por separado.                                                                                   | Alta          | 5                |
