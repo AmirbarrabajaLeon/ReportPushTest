@@ -882,6 +882,8 @@ Para facilitar la localización de información sin búsqueda explícita:
 
 
 ### 4.4.1. Web Applications Wireframes
+**Wireframe de inicio de sesión**
+![Captura de pantalla 2025-04-24 165601](https://github.com/user-attachments/assets/5b8e08f7-a316-4c2f-8da6-e33b960a4a89)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
