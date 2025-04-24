@@ -147,3 +147,27 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 
 **Foto de evidencia de la entrevista:**  
 ![Entrevista Diego](https://path_to_image_folder/Entrevista_Diego.jpeg)
+
+
+## 2.2.3 Análisis de entrevistas
+
+### Objetivas
+
+| Características | Gerente | Freelancer |
+|-----------------|---------|------------|
+| **Interés en gestionar tiempos de trabajo** | 100% menciona la importancia de gestionar tiempos y productividad de su equipo. | 100% busca optimizar sus tiempos de trabajo y obtener pagos por horas trabajadas. |
+| **Uso de plataformas tecnológicas para gestión** | 100% usa herramientas para gestión de personal, aunque busca soluciones más eficientes. | 100% utiliza plataformas tecnológicas para gestionar proyectos y tareas. |
+| **Necesidad de interacción con otros profesionales** | 100% necesita interactuar con su equipo y otros profesionales. | 100% necesita interactuar con otros freelancers y clientes. |
+| **Búsqueda de un sistema eficiente para pagos** | 100% busca un sistema que le permita controlar pagos y facturación de su equipo. | 100% prefiere recibir pagos rápidos y sin complicaciones. |
+| **Interés en bienestar y salud emocional** | 100% se preocupa por el bienestar emocional de su equipo. | 0% menciona explícitamente bienestar emocional, aunque valoran un entorno saludable. |
+
+### Subjetivas
+
+| Características | Gerente | Freelancer |
+|-----------------|---------|------------|
+| **Interés en obtener ganancias** | 100% considera que es vital que su equipo logre maximizar la productividad y las ganancias. | 100% desea obtener una ganancia adecuada por su trabajo freelance. |
+| **Uso de sistemas de pago transparentes** | 100% está dispuesta a utilizar plataformas que gestionen pagos de manera eficiente y clara. | 100% busca plataformas que ofrezcan pagos seguros y rápidos. |
+| **Interés en planes de suscripción** | 100% preferiría tener acceso a opciones de suscripción o pagos periódicos para sus empleados. | 100% cree que los planes de suscripción son una buena opción para generar ingresos adicionales. |
+| **Búsqueda de información sobre su área** | 100% busca información sobre tendencias en gestión de equipos y productividad. | 100% busca contenido sobre su área específica (ilustración, marketing, desarrollo web). |
+| **Preferencia por una interfaz intuitiva** | 100% le gustaría tener una plataforma fácil de usar para gestionar tiempos y tareas del equipo. | 100% también valora plataformas sencillas y amigables para gestionar su trabajo. |
+
