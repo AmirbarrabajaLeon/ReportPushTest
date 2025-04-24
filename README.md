@@ -16,7 +16,7 @@ La **misión** de Flow Sense es transformar la manera en que las personas y las 
 
 
 - **Pietro Osores Marchese** – Soy estudiante de Ingeniería de Software con un fuerte interés en la innovación tecnológica y el diseño centrado en el usuario. Me considero una persona organizada, con habilidades para liderar y analizar problemas de forma estructurada. En este proyecto, me encargué de definir los perfiles del equipo, analizar los antecedentes del problema y desarrollar todo el enfoque Lean UX, estableciendo así las bases conceptuales de nuestra solución.
-- **Amir [Apellido]** – CTO: Responsable del desarrollo tecnológico, con experiencia en arquitectura de software, IoT y AI.
+- **Amir Castro** – CTO: Responsable del desarrollo tecnológico, con experiencia en arquitectura de software, IoT y AI.
 - **Carlos [Apellido]** – UX/UI Designer: Diseñador centrado en la experiencia de usuario, encargado de construir interfaces intuitivas y accesibles.
 - **Stephano [Apellido]** – Backend Developer: Especialista en bases de datos, servidores y seguridad.
 - **Joaquín [Apellido]** – Data Analyst & IA Specialist: Enfocado en la recolección, procesamiento y análisis de datos, así como en la implementación de inteligencia artificial para el sistema.
