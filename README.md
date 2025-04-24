@@ -76,7 +76,8 @@ Ingrid considera fundamental contar con un sistema que gestione los horarios de 
 
 **Link de la entrevista:** [Enlace Ingrid](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/ES1lbUGmzaZBgHztGdCRqIMBEwWiFm7n1clXRJijo9frDg?e=E3Y9rK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-**Foto de evidencia de la entrevista:** "Entrevista Ingrid.jpeg"
+**Foto de evidencia de la entrevista:**  
+![Entrevista Ingrid](https://path_to_image_folder/Entrevista_Ingrid.jpeg)
 
 ---
 
@@ -98,7 +99,8 @@ En cuanto a la facturación, Letizia usa billeteras digitales como YAPE y BCP pa
 
 **Link de la entrevista:** [Enlace Letizia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EY1mS3V1TnlCjECGfDkXUAUBoVj7q7pWOKDLfxtNyTjCMA?e=V7dHYl)
 
-**Foto de evidencia de la entrevista:** "Entrevista Letizia.jpeg"
+**Foto de evidencia de la entrevista:**  
+![Entrevista Letizia](https://path_to_image_folder/Entrevista_Letizia.jpeg)
 
 ---
 
@@ -120,7 +122,8 @@ En resumen, Rodrigo busca una herramienta eficiente que lo ayude a gestionar mej
 
 **Link de la entrevista:** [Enlace Rodrigo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
 
-**Foto de evidencia de la entrevista:** "Entrevista Rodrigo.jpeg"
+**Foto de evidencia de la entrevista:**  
+![Entrevista Rodrigo](https://path_to_image_folder/Entrevista_Rodrigo.jpeg)
 
 ---
 
@@ -142,4 +145,5 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 
 **Link de la entrevista:** [Enlace Diego](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
 
-**Foto de evidencia de la entrevista:** "Entrevista Diego.jpeg"
+**Foto de evidencia de la entrevista:**  
+![Entrevista Diego](https://path_to_image_folder/Entrevista_Diego.jpeg)
