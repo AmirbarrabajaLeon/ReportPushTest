@@ -215,8 +215,7 @@ Creemos que al fomentar la integración con dispositivos personales, Flow Sense 
 ### **1.3. Segmentos Objetivo**
 
 - **Empresas medianas y grandes** con necesidad de control operativo, turnos rotativos y supervisión híbrida.
-- **Startups tecnológicas y agencias creativas** que buscan eficiencia sin burocracia.
 - **Freelancers** en áreas como diseño, desarrollo, consultoría y marketing, que necesitan optimizar su tiempo y facturación.
-- **Coworkings** y espacios de trabajo colaborativo que deseen añadir valor a sus usuarios mediante servicios inteligentes.
+
 
 ---
