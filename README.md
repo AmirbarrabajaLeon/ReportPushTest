@@ -186,7 +186,6 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 ## 2.3.2. User Task Matrix  
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
 
-### En Freelancer:
 ### User Persona: Freelancer  
 **Segmento Objetivo**: Freelancer entre 18 años a más  
 
@@ -199,7 +198,6 @@ A continuación se pueden apreciar los User Task Matrix de los segmentos objetiv
 | Buscar y establecer nuevos contratos | Medium        | High           |
 
 
-### En Gerente:
 ### User Persona: Gerente  
 **Segmento Objetivo**: Gerentes entre 30 años a más  
 
