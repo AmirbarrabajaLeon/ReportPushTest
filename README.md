@@ -74,10 +74,11 @@ Ingrid también se ocupa del bienestar emocional de su equipo mediante actividad
 
 Ingrid considera fundamental contar con un sistema que gestione los horarios de trabajo de manera eficiente y optimice los tiempos. Además, subrayó la importancia de integrar la tecnología para mejorar la productividad de su equipo y aumentar la rentabilidad de su negocio.
 
-**Link de la entrevista:** [Enlace Ingrid](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/ES1lbUGmzaZBgHztGdCRqIMBEwWiFm7n1clXRJijo9frDg?e=E3Y9rK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+**Link de la entrevista:** [Enlace Entrevista Ingrid](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/ES1lbUGmzaZBgHztGdCRqIMBEwWiFm7n1clXRJijo9frDg?e=E3Y9rK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Foto de evidencia de la entrevista:**  
-![Entrevista Ingrid](https://path_to_image_folder/Entrevista_Ingrid.jpeg)
+![Entrevista Ingrid](https://github.com/user-attachments/assets/260c2186-986a-49af-9ce9-bcdedef1f699)
+
 
 ---
 
@@ -97,10 +98,11 @@ Letizia valora tener control sobre su horario y trabajo, ya que le permite organ
 
 En cuanto a la facturación, Letizia usa billeteras digitales como YAPE y BCP para gestionar los pagos, por lo que valora la agilidad de los sistemas de pago. Además, expresó su interés en colaborar con ilustradores y en tener un contacto directo con ellos a través de una plataforma que permita chats en vivo o videollamadas. Finalmente, mencionó que le gustaría que la plataforma centralice todas sus necesidades laborales, desde la gestión de tareas hasta la facturación, eliminando la necesidad de usar varias herramientas al mismo tiempo.
 
-**Link de la entrevista:** [Enlace Letizia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EY1mS3V1TnlCjECGfDkXUAUBoVj7q7pWOKDLfxtNyTjCMA?e=V7dHYl)
+**Link de la entrevista:** [Enlace Entrevista Letizia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EY1mS3V1TnlCjECGfDkXUAUBoVj7q7pWOKDLfxtNyTjCMA?e=V7dHYl)
 
 **Foto de evidencia de la entrevista:**  
-![Entrevista Letizia](https://path_to_image_folder/Entrevista_Letizia.jpeg)
+![Entrevista Letizia](https://github.com/user-attachments/assets/a3f7e359-5a36-4767-9953-c47524e30e3f)
+
 
 ---
 
@@ -120,10 +122,11 @@ Rodrigo valora profundamente tener control sobre su horario y trabajo, ya que si
 
 En resumen, Rodrigo busca una herramienta eficiente que lo ayude a gestionar mejor su tiempo, tareas y proyectos, con características como un temporizador o recordatorio de plazos y una integración para el seguimiento de sus pagos y relaciones con clientes. Está dispuesto a invertir en una plataforma que le ofrezca estos beneficios, ya que esto lo ayudaría a manejar su carga de trabajo y a mejorar su productividad.
 
-**Link de la entrevista:** [Enlace Rodrigo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
+**Link de la entrevista:** [Enlace Entrevista Rodrigo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
 
 **Foto de evidencia de la entrevista:**  
-![Entrevista Rodrigo](https://path_to_image_folder/Entrevista_Rodrigo.jpeg)
+![Entrevista Rodrigo](https://github.com/user-attachments/assets/2e9e4a28-1798-496c-9aef-53e5e55f5f1b)
+
 
 ---
 
@@ -143,10 +146,11 @@ En cuanto a los pagos, Diego usa paypal para recibir sus pagos, y le gustaría c
 
 En resumen, Diego busca una herramienta integral que le permita gestionar su tiempo, recibir retroalimentación de los clientes en tiempo real y organizar mejor su carga de trabajo. Le interesa especialmente una plataforma que le ayude a optimizar la comunicación, realizar un seguimiento detallado de su trabajo y, además, proporcionarle un análisis de su rendimiento para crecer profesionalmente.
 
-**Link de la entrevista:** [Enlace Diego](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
+**Link de la entrevista:** [Enlace Entrevista Diego](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
 
 **Foto de evidencia de la entrevista:**  
-![Entrevista Diego](https://path_to_image_folder/Entrevista_Diego.jpeg)
+![Entrevista Diego](https://github.com/user-attachments/assets/89bb042a-4f46-46fb-82b3-1b6bfde312f8)
+
 
 
 ## 2.2.3 Análisis de entrevistas
