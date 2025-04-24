@@ -171,3 +171,42 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 | **Búsqueda de información sobre su área** | 100% busca información sobre tendencias en gestión de equipos y productividad. | 100% busca contenido sobre su área específica (ilustración, marketing, desarrollo web). |
 | **Preferencia por una interfaz intuitiva** | 100% le gustaría tener una plataforma fácil de usar para gestionar tiempos y tareas del equipo. | 100% también valora plataformas sencillas y amigables para gestionar su trabajo. |
 
+
+
+# 2.3. Needfinding
+
+## 2.3.1. User Personas 
+
+### Segmento 1: Gerente
+![Imagen user gerente](ruta/a/la/imagen/gerente.jpg)  
+
+### Segmento 2: Freelancer  
+![Imagen user Freelancer](ruta/a/la/imagen/freelancer.jpg)  
+
+## 2.3.2. User Task Matrix  
+A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
+
+### En Freelancer:
+### User Persona: Freelancer  
+**Segmento Objetivo**: Freelancer entre 18 años a más  
+
+| **Task**                         | **Frequency** | **Importance** |
+|----------------------------------|---------------|----------------|
+| Registrar nuevos clientes        | High          | High           |
+| Gestionar proyectos y asignar tareas | High          | High           |
+| Controlar tiempo de trabajo      | High          | High           |
+| Recibir retroalimentación de clientes | Medium        | High           |
+| Buscar y establecer nuevos contratos | Medium        | High           |
+
+
+### En Gerente:
+### User Persona: Gerente  
+**Segmento Objetivo**: Gerentes entre 30 años a más  
+
+| **Task**                         | **Frequency** | **Importance** |
+|----------------------------------|---------------|----------------|
+| Asignar tareas a empleados       | High          | High           |
+| Supervisar el progreso del equipo| High          | High           |
+| Gestionar horarios de los empleados | High          | High           |
+| Ver la productividad en tiempo real | Medium        | High           |
+| Realizar pagos a empleados       | Medium        | High           |
