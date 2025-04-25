@@ -911,5 +911,6 @@ Para facilitar la localización de información sin búsqueda explícita:
 ## 4.8 Database Design
 
 ### 4.8.1 Database Diagram
+![Captura de pantalla 2025-04-24 194450](https://github.com/user-attachments/assets/bd489bce-fc44-434d-9213-f66bf85c88d8)
 
 
