@@ -86,6 +86,30 @@ Ingrid considera fundamental contar con un sistema que gestione los horarios de 
 
 ---
 
+
+### Resumen de la entrevista -  Anderson Gonza
+- **Entrevistado:** Anderson Gonza Morales
+- **Edad:** 28 años
+- **Ocupación:** Supervisor en empresa de servicios logísticos
+- **Ubicación:** Lima, Perú
+
+**Resumen de la entrevista:**
+
+Anderson Gonza, de 28 años, es supervisor en una empresa de servicios logísticos en Lima. Su principal reto es mantener motivado a su equipo en un entorno de trabajo exigente, donde el ritmo puede afectar el ánimo y la productividad de los empleados.
+
+Para gestionar horarios y tareas, usa hojas de control, aplicativos internos y realiza supervisiones presenciales. Sobre el bienestar del equipo, conversa con ellos cuando detecta algo inusual, y la empresa aplica encuestas de clima laboral dos veces al año.
+
+Le gustaría contar con datos en tiempo real sobre avance de tareas, tiempos muertos y señales de agotamiento. Esto le permitiría actuar rápidamente y mejorar la planificación sin necesidad de supervisar todo manualmente.
+
+Anderson cree que su equipo está dispuesto a probar nuevas herramientas si son sencillas y útiles. Considera clave una función que muestre el progreso de cada tarea, lo que facilitaría la gestión de equipos grandes y mejoraría la eficiencia general.
+
+**Link de la entrevista:** [Enlace Entrevista Anderson]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/Ed_kAsD-gwxBpQRQzMU61VMBSsJGslMwKjqvCIFAnxkGDA?e=a2XHlx))
+
+**Foto de evidencia de la entrevista:**  
+![Entrevista Anderson](https://github.com/user-attachments/assets/830ae84f-3d7c-41d8-93f5-7369a007df40)
+
+---
+
 ## Entrevistas Segmento 2: Freelancers
 
 ### Resumen de la Entrevista - Letizia Aguilar López
@@ -157,26 +181,6 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 
 ---
 
-### Resumen de la entrevista -  Anderson Gonza
-- **Entrevistado:** Anderson Gonza Morales
-- **Edad:** 28 años
-- **Ocupación:** Supervisor en empresa de servicios logísticos
-- **Ubicación:** Lima, Perú
-
-**Resumen de la entrevista:**
-
-Anderson Gonza, de 28 años, es supervisor en una empresa de servicios logísticos en Lima. Su principal reto es mantener motivado a su equipo en un entorno de trabajo exigente, donde el ritmo puede afectar el ánimo y la productividad de los empleados.
-
-Para gestionar horarios y tareas, usa hojas de control, aplicativos internos y realiza supervisiones presenciales. Sobre el bienestar del equipo, conversa con ellos cuando detecta algo inusual, y la empresa aplica encuestas de clima laboral dos veces al año.
-
-Le gustaría contar con datos en tiempo real sobre avance de tareas, tiempos muertos y señales de agotamiento. Esto le permitiría actuar rápidamente y mejorar la planificación sin necesidad de supervisar todo manualmente.
-
-Anderson cree que su equipo está dispuesto a probar nuevas herramientas si son sencillas y útiles. Considera clave una función que muestre el progreso de cada tarea, lo que facilitaría la gestión de equipos grandes y mejoraría la eficiencia general.
-
-**Link de la entrevista:** [Enlace Entrevista Anderson]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/Ed_kAsD-gwxBpQRQzMU61VMBSsJGslMwKjqvCIFAnxkGDA?e=a2XHlx))
-
-**Foto de evidencia de la entrevista:**  
-![Entrevista Anderson](https://github.com/user-attachments/assets/830ae84f-3d7c-41d8-93f5-7369a007df40)
 
 
 ## **Análisis de entrevistas**
