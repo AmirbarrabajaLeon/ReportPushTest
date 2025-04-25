@@ -160,6 +160,11 @@ Estas decisiones se basaron en las siguientes User Stories priorizadas:
 Durante el Sprint 1, el objetivo principal fue construir una base funcional mínima para el sistema, abordando funcionalidades clave como registro, inicio de sesión, gestión de proyectos y asignación de tareas. Se trabajó con una herramienta de control de tareas basada en tableros tipo Kanban (por ejemplo Trello), en donde cada User Story se descompuso en uno o más work-items o tareas técnicas.
 
 ### Sprint Backlog - Sprint 1
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
+
+Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
+
+![Captura de pantalla 2025-04-24 185213](https://github.com/user-attachments/assets/bad7d3bd-46b6-43b5-908d-d69237ec8917)
 
 | User Story ID | User Story Title         | Task ID | Work-Item / Task                               | Description                                                  | Estimation (hrs) | Assigned To      | Status           |
 |---------------|--------------------------|---------|------------------------------------------------|--------------------------------------------------------------|------------------|------------------|------------------|
