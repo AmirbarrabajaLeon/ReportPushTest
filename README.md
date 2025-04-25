@@ -13,6 +13,10 @@
 | ActivTrak | Análisis avanzado, ideal para empresas | Alto costo, difícil implementación para pymes |
 
 ---
+### **2.2. Entrevistas**
+
+
+
 
 ### **2.1.2. Estrategias y tácticas frente a competidores**
 
