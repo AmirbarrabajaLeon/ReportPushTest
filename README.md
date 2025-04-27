@@ -896,8 +896,10 @@ Para facilitar la localización de información sin búsqueda explícita:
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagrams
+![structurizr-84132-Diagram1](https://github.com/user-attachments/assets/ef088ba9-203d-4b33-9126-08536be771b6)
 
 ### 4.6.2. Software Architecture Container Diagrams
+![structurizr-84132-Diagram2](https://github.com/user-attachments/assets/b8446713-aaf0-4a49-952c-6bb1d27e4441)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
