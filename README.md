@@ -217,7 +217,7 @@ En el primer sprint, hemos realizado el diseño, la programación y el despligue
   </tr>
 
   <tr>
-    <td> https://easy-impala-charmed.ngrok-free.app </td>
+    <td> https://1asi0729-2510-4317-g5-flow-senses.github.io/LandingPage/ </td>
     <td> Desplegar Landing Page de FlowSenses</td>
   </tr>
 </table>
