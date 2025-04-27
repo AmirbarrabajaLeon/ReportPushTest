@@ -1,3 +1,4 @@
+
 # COURSE PROJECT
 
 <p align="center">
@@ -53,7 +54,7 @@
 <br>
 
 ---
-=======
+
 # Project Report Collaboration Insights
 
 | **Integrante** | **Responsabilidades** | **Aporte al Proyecto** |
@@ -63,4 +64,11 @@
 | **Carlos (TB1)** | Diseño visual y arquitectura de información: Guías de estilo, etiquetado, navegación, SEO. | Me aseguré de que la interfaz del sistema sea clara, funcional y accesible. Organicé la arquitectura de información y definí los estándares visuales para mantener una experiencia consistente. |
 | **Joaquín (TB1)** | Diseño UX/UI y arquitectura de software: Wireframes, prototipos, diagramas y base de datos. | Estructuré visual y técnicamente la aplicación. Me enfoqué en los flujos de navegación y lógica del sistema para asegurar que la experiencia de usuario sea fluida y que la arquitectura sea escalable. |
 | **Amir (TB1)** | Implementación, configuración y despliegue: Sprint planning, entorno de desarrollo, documentación. | Me encargué de la implementación técnica y del despliegue del producto. Realicé la configuración del entorno, codifiqué los módulos funcionales y documenté cada fase de desarrollo para mantener un control estructurado. |
+
+
+# Registro de Versiones
+
+| **Versión** | **Fecha** | **Responsable** | **Descripción del Cambio** |
+| --- | --- | --- | --- |
+| 1.0 | 23/04/2025 | Equipo de Proyecto (Pietro, Stephano, Carlos, Joaquín, Amir) | Se desarrolló la primera versión del proyecto. Se completaron los siguientes capítulos: Introducción, Elicitación y Análisis de Requisitos, Especificación de Requisitos y Diseño del Producto. Incluye definiciones clave como perfiles, Lean UX, entrevistas, diseño de interfaces, arquitectura, base de datos y planificación de implementación. También se elaboraron los apartados de Student Outcome, Collaboration Insights y Registro de Versiones. |
 
