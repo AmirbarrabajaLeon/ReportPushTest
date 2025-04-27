@@ -176,9 +176,59 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
 | LDP-01        | Landing Page             | TSK-06  | Maquetación de sección principal               | Header, value proposition y CTA                              | 4                | Carlos           | Done             |
 | DEP-01        | Despliegue               | TSK-07  | Configurar pipeline de deploy en Vercel        | Configurar deploy desde GitHub a Vercel                      | 3                | Amir             | Done             |
 
-
 #### 5.2.1.4. Development Evidence for Sprint Review.
+Después de finalizar el Sprint 1, hemos logrado implementar algunas de las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
+
+*Seccion de navegacion* : Nos ayudara a redirigirnos a secciones especificas de la lading page y Banner que contendra un boton (Call to Action) que te llevara a registrarte a nuestra aplicación.
+
+![image](https://github.com/user-attachments/assets/6b423628-1a00-458c-99d8-433be0d35a5f)
+
+*Funcionality*: Seccion donde los visitantes de la lading page podrán ver como es que funciona nuestra aplicacion y que les ofrece.
+
+![image](https://github.com/user-attachments/assets/8937f486-207b-4790-b23f-d5b9a0ee6e64)
+
+*Ventajas*: sección de las ventajas para nuestro usuarios
+
+![image](https://github.com/user-attachments/assets/d40476c8-a3bf-4f53-aa01-fcb44e904004)
+
+
+*Seccion de testimonios*: sección de testimonios
+
+![image](https://github.com/user-attachments/assets/c37b9324-6e02-42fd-acb6-be57e824349f)
+
+
+*footer*: contenido extra, como telefono,correo y redes para que puedan comunicarse con la empresa devinsons.
+
+![image](https://github.com/user-attachments/assets/8a44b971-2a40-4821-9e2a-190769713a50)
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "ChapaTuRuta"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://easy-impala-charmed.ngrok-free.app </td>
+    <td> Desplegar Landing Page de FlowSenses</td>
+  </tr>
+</table>
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+![image](https://github.com/user-attachments/assets/d22050d7-56cb-4b38-a9e7-2e27a832051d)
+
+![image](https://github.com/user-attachments/assets/cdee531a-e551-4689-a800-f5b360fcf5e3)
+
+
