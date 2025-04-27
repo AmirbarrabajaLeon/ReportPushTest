@@ -164,98 +164,8 @@
 ## [Bibliografía](#bibliografía)
 
 ## [Anexos](#anexos)
-=======
-## **Capítulo II: Requirements Elicitation & Analysis**
-
-### **2.1. Competidores**
-
-### **2.1.1. Análisis Competitivo**
-
-| **Competidor** | **Fortalezas** | **Debilidades** |
-| --- | --- | --- |
-| Toggl Track | UI amigable, seguimiento de tiempo, integraciones | Falta de automatización, sin IoT |
-| Clockify | Gratuito, multiusuario | Interfaz básica, sin análisis predictivo |
-| Harvest | Facturación integrada | Limitado en automatización e IA |
-| RescueTime | Seguimiento automático | No personalizable, no apto para empresas |
-| ActivTrak | Análisis avanzado, ideal para empresas | Alto costo, difícil implementación para pymes |
-
----
-### **2.2. Entrevistas**
 
 
-
-
-### **2.1.2. Estrategias y tácticas frente a competidores**
-
-- **Diferenciación tecnológica**: Incorporar sensores IoT para recolección automática de datos en tiempo real, una característica no ofrecida por los competidores.
-- **Experiencia unificada**: Combinar seguimiento de tiempo, gestión de clientes y facturación en una sola app fácil de usar.
-- **Modelo freemium escalable**: Atraer freelancers con versión gratuita con funciones clave y ofrecer planes premium con más automatización.
-- **Estrategia B2B personalizada**: Implementar soluciones modulares y adaptables para empresas de distintos tamaños.
-- **Enfoque en bienestar laboral**: No solo medir, sino mejorar el clima organizacional mediante recomendaciones basadas en datos.
-
-## 2.2.1. Diseño de entrevistas
-
-### Preguntas Generales:
-- ¿Cuál es tu nombre?
-- ¿Qué edad tienes?
-- ¿Dónde vives actualmente?
-- ¿A qué te dedicas?
-
----
-
-### Segmento 1: Gerentes (Empresas)
-1. ¿Qué desafíos enfrentas actualmente al gestionar la productividad y el bienestar de tus empleados?
-2. ¿Cómo supervisas el cumplimiento de horarios y tareas en tu equipo? ¿Qué herramientas utilizas?
-3. ¿Cómo manejas el bienestar laboral de tus empleados? ¿Realizas alguna medición o encuesta para conocer su estado emocional o físico?
-4. ¿Qué tipo de datos te gustaría tener en tiempo real sobre la productividad de tus empleados?
-5. ¿Qué tan importante es para ti contar con un sistema que te ofrezca visibilidad y control sin tener que supervisar manualmente cada detalle?
-6. ¿Cómo crees que la integración de datos en tiempo real podría mejorar la eficiencia y la toma de decisiones en tu empresa?
-7. ¿Qué tan dispuestos están tus empleados a utilizar nuevas herramientas tecnológicas para mejorar su productividad y bienestar?
-8. ¿Qué función consideras esencial para optimizar la gestión de tiempo y productividad de tu equipo?
-
----
-
-### Segmento 2: Freelancers (Profesionales independientes del rubro digital)
-1. ¿Cuáles son los principales retos que enfrentas al gestionar tu tiempo y proyectos como freelancer?
-2. ¿Cómo administras actualmente tu relación con los clientes, especialmente en cuanto a plazos, tareas y pagos?
-3. ¿Utilizas alguna herramienta para organizar tus proyectos y tareas? ¿Qué te gusta o no te gusta de ellas?
-4. ¿Cuánto valoras el tener control total sobre tu horario y trabajo, y cómo gestionas esa flexibilidad?
-5. ¿Cómo prefieres recibir pagos por tu trabajo y qué tipo de sistema de facturación usas actualmente?
-6. ¿Qué funcionalidades te gustaría que tuviera una herramienta para freelancers para ayudarte a ser más eficiente?
-7. ¿Qué tan importante es para ti que tu plataforma te ayude a realizar un seguimiento del tiempo invertido en cada proyecto o tarea?
-8. ¿Estás dispuesto a pagar por una herramienta que te ayude a gestionar todo tu trabajo y clientes de manera más eficiente? ¿Por qué?
-9. ¿Te gustaría tener alguna funcionalidad que te permita tener acceso a análisis sobre tu rendimiento y áreas a mejorar?
-10. ¿Qué tan útil sería para ti una plataforma que integre todas tus necesidades laborales (planificación, facturación, comunicación con clientes)?
-
----
-
-## Entrevistas Segmento 1: Gerentes
-
-### Resumen de la Entrevista - Ingrid Leiva
-- **Entrevistado:** Ingrid Leiva
-- **Edad:** 41 años
-- **Ocupación:** Propietaria de empresa de catering
-- **Ubicación:** Comas, Lima, Perú
-
-**Resumen de la entrevista:**
-
-Ingrid Leiva, de 41 años, es dueña y jefa de su propio negocio de catering. Su empresa brinda servicios de catering para eventos y ella supervisa tanto la logística como el bienestar de su equipo. Ingrid enfrenta desafíos con la gestión de los horarios de entrada y salida de sus empleados, ya que algunos no llegan a tiempo. Actualmente, tiene implementado un sistema de control de asistencia con tarjetas, pero sigue buscando una solución más eficiente que le brinde mayor visibilidad en tiempo real sobre el estado de su personal.
-
-Ingrid también se ocupa del bienestar emocional de su equipo mediante actividades como juegos y dinámicas, con la ayuda de una psicóloga, para identificar posibles problemas entre sus empleados. Ingrid está abierta a integrar tecnologías que proporcionen visibilidad en tiempo real sobre la ubicación y productividad de su personal, lo que le permitiría optimizar los tiempos de trabajo y mejorar la supervisión sin necesidad de estar presente todo el tiempo.
-
-Ingrid considera fundamental contar con un sistema que gestione los horarios de trabajo de manera eficiente y optimice los tiempos. Además, subrayó la importancia de integrar la tecnología para mejorar la productividad de su equipo y aumentar la rentabilidad de su negocio.
-
-**Link de la entrevista:** [Enlace Entrevista Ingrid](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/ES1lbUGmzaZBgHztGdCRqIMBEwWiFm7n1clXRJijo9frDg?e=E3Y9rK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
-**Foto de evidencia de la entrevista:**  
-![Entrevista Ingrid](https://github.com/user-attachments/assets/260c2186-986a-49af-9ce9-bcdedef1f699)
->>>>>>> feature/chapter-2
-
-
----
-
-
-<<<<<<< HEAD
 # Student Outcome
 
 | **Criterio específico** | **Acciones realizadas (Responsables y Aportes)** | **Conclusión** |
@@ -482,7 +392,95 @@ Creemos que al fomentar la integración con dispositivos personales, Flow Sense 
 
 - **Empresas medianas y grandes** con necesidad de control operativo, turnos rotativos y supervisión híbrida.
 - **Freelancers** en áreas como diseño, desarrollo, consultoría y marketing, que necesitan optimizar su tiempo y facturación.
-=======
+
+
+## **Capítulo II: Requirements Elicitation & Analysis**
+
+### **2.1. Competidores**
+
+### **2.1.1. Análisis Competitivo**
+
+| **Competidor** | **Fortalezas** | **Debilidades** |
+| --- | --- | --- |
+| Toggl Track | UI amigable, seguimiento de tiempo, integraciones | Falta de automatización, sin IoT |
+| Clockify | Gratuito, multiusuario | Interfaz básica, sin análisis predictivo |
+| Harvest | Facturación integrada | Limitado en automatización e IA |
+| RescueTime | Seguimiento automático | No personalizable, no apto para empresas |
+| ActivTrak | Análisis avanzado, ideal para empresas | Alto costo, difícil implementación para pymes |
+
+---
+
+### **2.1.2. Estrategias y tácticas frente a competidores**
+
+- **Diferenciación tecnológica**: Incorporar sensores IoT para recolección automática de datos en tiempo real, una característica no ofrecida por los competidores.
+- **Experiencia unificada**: Combinar seguimiento de tiempo, gestión de clientes y facturación en una sola app fácil de usar.
+- **Modelo freemium escalable**: Atraer freelancers con versión gratuita con funciones clave y ofrecer planes premium con más automatización.
+- **Estrategia B2B personalizada**: Implementar soluciones modulares y adaptables para empresas de distintos tamaños.
+- **Enfoque en bienestar laboral**: No solo medir, sino mejorar el clima organizacional mediante recomendaciones basadas en datos.
+
+---
+
+### **2.2. Entrevistas**
+
+## 2.2.1. Diseño de entrevistas
+
+### Preguntas Generales:
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
+---
+
+### Segmento 1: Gerentes (Empresas)
+1. ¿Qué desafíos enfrentas actualmente al gestionar la productividad y el bienestar de tus empleados?
+2. ¿Cómo supervisas el cumplimiento de horarios y tareas en tu equipo? ¿Qué herramientas utilizas?
+3. ¿Cómo manejas el bienestar laboral de tus empleados? ¿Realizas alguna medición o encuesta para conocer su estado emocional o físico?
+4. ¿Qué tipo de datos te gustaría tener en tiempo real sobre la productividad de tus empleados?
+5. ¿Qué tan importante es para ti contar con un sistema que te ofrezca visibilidad y control sin tener que supervisar manualmente cada detalle?
+6. ¿Cómo crees que la integración de datos en tiempo real podría mejorar la eficiencia y la toma de decisiones en tu empresa?
+7. ¿Qué tan dispuestos están tus empleados a utilizar nuevas herramientas tecnológicas para mejorar su productividad y bienestar?
+8. ¿Qué función consideras esencial para optimizar la gestión de tiempo y productividad de tu equipo?
+
+---
+
+### Segmento 2: Freelancers (Profesionales independientes del rubro digital)
+1. ¿Cuáles son los principales retos que enfrentas al gestionar tu tiempo y proyectos como freelancer?
+2. ¿Cómo administras actualmente tu relación con los clientes, especialmente en cuanto a plazos, tareas y pagos?
+3. ¿Utilizas alguna herramienta para organizar tus proyectos y tareas? ¿Qué te gusta o no te gusta de ellas?
+4. ¿Cuánto valoras el tener control total sobre tu horario y trabajo, y cómo gestionas esa flexibilidad?
+5. ¿Cómo prefieres recibir pagos por tu trabajo y qué tipo de sistema de facturación usas actualmente?
+6. ¿Qué funcionalidades te gustaría que tuviera una herramienta para freelancers para ayudarte a ser más eficiente?
+7. ¿Qué tan importante es para ti que tu plataforma te ayude a realizar un seguimiento del tiempo invertido en cada proyecto o tarea?
+8. ¿Estás dispuesto a pagar por una herramienta que te ayude a gestionar todo tu trabajo y clientes de manera más eficiente? ¿Por qué?
+9. ¿Te gustaría tener alguna funcionalidad que te permita tener acceso a análisis sobre tu rendimiento y áreas a mejorar?
+10. ¿Qué tan útil sería para ti una plataforma que integre todas tus necesidades laborales (planificación, facturación, comunicación con clientes)?
+
+---
+
+## 2.2.2. Registro de entrevistas
+
+## Entrevistas Segmento 1: Gerentes
+
+### Resumen de la Entrevista - Ingrid Leiva
+- **Entrevistado:** Ingrid Leiva
+- **Edad:** 41 años
+- **Ocupación:** Propietaria de empresa de catering
+- **Ubicación:** Comas, Lima, Perú
+
+**Resumen de la entrevista:**
+
+Ingrid Leiva, de 41 años, es dueña y jefa de su propio negocio de catering. Su empresa brinda servicios de catering para eventos y ella supervisa tanto la logística como el bienestar de su equipo. Ingrid enfrenta desafíos con la gestión de los horarios de entrada y salida de sus empleados, ya que algunos no llegan a tiempo. Actualmente, tiene implementado un sistema de control de asistencia con tarjetas, pero sigue buscando una solución más eficiente que le brinde mayor visibilidad en tiempo real sobre el estado de su personal.
+
+Ingrid también se ocupa del bienestar emocional de su equipo mediante actividades como juegos y dinámicas, con la ayuda de una psicóloga, para identificar posibles problemas entre sus empleados. Ingrid está abierta a integrar tecnologías que proporcionen visibilidad en tiempo real sobre la ubicación y productividad de su personal, lo que le permitiría optimizar los tiempos de trabajo y mejorar la supervisión sin necesidad de estar presente todo el tiempo.
+
+Ingrid considera fundamental contar con un sistema que gestione los horarios de trabajo de manera eficiente y optimice los tiempos. Además, subrayó la importancia de integrar la tecnología para mejorar la productividad de su equipo y aumentar la rentabilidad de su negocio.
+
+**Link de la entrevista:** [Enlace Entrevista Ingrid](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/ES1lbUGmzaZBgHztGdCRqIMBEwWiFm7n1clXRJijo9frDg?e=E3Y9rK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Foto de evidencia de la entrevista:**  
+![Entrevista Ingrid](https://github.com/user-attachments/assets/260c2186-986a-49af-9ce9-bcdedef1f699)
+
 ### Resumen de la entrevista -  Anderson Gonza
 - **Entrevistado:** Anderson Gonza Morales
 - **Edad:** 28 años
@@ -579,8 +577,7 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 ---
 
 
-
-## **Análisis de entrevistas**
+## 2.2.3. Análisis de entrevistas
 
 ### **Objetivas**
 
@@ -605,7 +602,6 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 | **Preferencia por una interfaz intuitiva**    | 90% le gustaría tener una plataforma fácil de usar para gestionar tiempos y tareas del equipo. Ingrid enfatiza la simplicidad en la plataforma para mejorar la eficiencia en la gestión de su equipo. Anderson también valora herramientas fáciles de usar. | 90% también valora plataformas sencillas y amigables para gestionar su trabajo. Letizia subraya que una herramienta sencilla y accesible es clave para su eficiencia, al igual que Rodrigo, quien prefiere plataformas claras y fáciles de entender. |
 
 ---
-
 
 
 # 2.3. Needfinding
@@ -653,12 +649,7 @@ A continuación estarán los User Journey Mapping de los segmentos objetivos.
 ![Journey Ingrid](https://github.com/user-attachments/assets/8c2d9ce2-2aeb-452d-b226-868621609b97)
 
 
-
-### Segmento freelancer:
-![Journey Letizia](https://github.com/user-attachments/assets/743676ba-3202-43b4-9b5b-6ad59226ae27)
-
-
-
+![Impact Freelancer](https://github.com/user-attachments/assets/f42cef67-6e4c-4f2c-83e6-afd0457ba5ee)
 
 # 2.3.4. Empathy Mapping  
 A continuación estarán los Empathy Mapping de los segmentos objetivos.
@@ -745,4 +736,87 @@ El grado en que los usuarios pueden completar tareas y proyectos en el menor tie
 
 ### Team Collaboration Tools (Herramientas de Colaboración de Equipo):  
 Herramientas digitales que permiten a los miembros de un equipo colaborar de manera efectiva, compartiendo tareas, actualizaciones y documentos, todo en tiempo real.
+
+
+
+# **Capítulo III: Requirements Specification**
+
+
+### 3.1. To-Be Scenario Mapping  
+Con el fin de crear el To-be Scenario Mapping, el equipo definió cómo se optimizaría el flujo de trabajo una vez que nuestra solución haya sido implementada para cada segmento objetivo. El propósito de este artefacto es analizar y mejorar los aspectos negativos identificados en el As-is Scenario.
+
+### Segmento gerente:
+![ToBe-Gerente](https://github.com/user-attachments/assets/b5deb120-a235-4828-9bea-c7be563d0f95)
+
+
+### Segmento freelancer:
+![ToBe-Freelancer](https://github.com/user-attachments/assets/447bc451-96cb-4e46-8e7e-886f08a1ce14)
+
+
+
+## 3.2. User Stories
+
+| **User Story ID** | **Título**                       | **Descripción**  | **Escenarios** | **Epic ID** |
+|-------------------|----------------------------------|------------------|----------------|-------------|
+| E1-US01           | Registro de cuenta               | Como usuario, quiero registrarme en la plataforma para gestionar mis proyectos. | **Escenario 1: Registro con Email**<br> Dado que el usuario está en la página de registro, <br>Cuando ingrese sus datos correctamente, <br>Entonces la cuenta será creada. <br><br> **Escenario 2: Registro con Google** <br> Dado que el usuario está en la página de registro, <br>Cuando elija registrarse con Google, <br>Entonces se creará la cuenta vinculada a Google. | 1 |
+| E1-US02           | Inicio de sesión                 | Como usuario, quiero iniciar sesión en la plataforma para gestionar mis proyectos y clientes. | **Escenario 1: Inicio de sesión correcto**<br> Dado que el usuario tiene una cuenta, <br>Cuando ingrese sus datos correctamente, <br>Entonces iniciará sesión en la plataforma. <br><br> **Escenario 2: Inicio de sesión incorrecto** <br> Dado que el usuario tiene una cuenta, <br>Cuando ingrese datos incorrectos, <br>Entonces recibirá un mensaje de error. | 1 |
+| E1-US03           | Gestión de proyectos             | Como freelancer, quiero gestionar mis proyectos para cumplir con los plazos establecidos. | **Escenario 1: Gestión de proyectos** <br> Dado que el freelancer está en su panel, <br>Cuando agregue un nuevo proyecto, <br>Entonces podrá asignar fechas y plazos. <br><br> **Escenario 2: Recordatorio de plazos** <br> Dado que el freelancer tiene proyectos, <br>Cuando se acerque el plazo de entrega, <br>Entonces recibirá un recordatorio. | 1 |
+| E1-US04           | Notificaciones de cliente        | Como freelancer, quiero recibir notificaciones cuando un cliente haga comentarios en un proyecto para poder responder rápidamente. | **Escenario 1: Notificación de comentario** <br> Dado que el usuario tiene proyectos activos, <br>Cuando un cliente deje un comentario, <br>Entonces recibirá una notificación. <br><br> **Escenario 2: Notificación de retroalimentación** <br> Dado que el freelancer tiene proyectos, <br>Cuando un cliente deje retroalimentación, <br>Entonces será notificado. | 1 |
+| E1-US05           | Control de pagos                 | Como freelancer, quiero gestionar los pagos para que se realicen sin problemas. | **Escenario 1: Generación de factura** <br> Dado que el freelancer ha completado un proyecto, <br>Cuando genere la factura, <br>Entonces la plataforma calculará automáticamente el monto a cobrar. <br><br> **Escenario 2: Envío automático de factura** <br> Dado que la factura se generó, <br>Cuando se finalice, <br>Entonces se enviará automáticamente al cliente. | 1 |
+| E2-US06           | Asignación de tareas             | Como gerente, quiero asignar tareas a mi equipo para llevar un seguimiento del progreso. | **Escenario 1: Asignación de tareas** <br> Dado que el gerente está en la plataforma, <br>Cuando asigne una tarea a un miembro, <br>Entonces será visible para ese miembro. <br><br> **Escenario 2: Supervisión del progreso** <br> Dado que el gerente tiene tareas asignadas, <br>Cuando un miembro complete una tarea, <br>Entonces el progreso se actualizará. | 2 |
+| E2-US07           | Control de horarios              | Como gerente, quiero controlar los horarios de entrada y salida de los empleados para mejorar la gestión. | **Escenario 1: Control de entrada** <br> Dado que el empleado llega, <br>Cuando marque su entrada, <br>Entonces se registrará la hora de inicio. <br><br> **Escenario 2: Control de salida** <br> Dado que el empleado termina su jornada, <br>Cuando marque su salida, <br>Entonces se registrará la hora de salida. | 2 |
+| E2-US08           | Supervisión en tiempo real       | Como gerente, quiero ver la ubicación en tiempo real de mis empleados para mejorar la supervisión. | **Escenario 1: Supervisión de ubicación** <br> Dado que el gerente necesita supervisar, <br>Cuando active la opción de supervisión, <br>Entonces podrá ver la ubicación actual de los empleados. <br><br> **Escenario 2: Actualización en tiempo real** <br> Dado que el gerente está supervisando, <br>Cuando los empleados se desplacen, <br>Entonces la ubicación se actualizará en tiempo real. | 2 |
+| E2-US09           | Integración de pagos             | Como freelancer, quiero recibir pagos mediante billeteras digitales para gestionar mis finanzas rápidamente. | **Escenario 1: Recibo de pago** <br> Dado que el freelancer tiene un pago pendiente, <br>Cuando reciba un pago a través de billetera, <br>Entonces el pago se reflejará en su cuenta. <br><br> **Escenario 2: Confirmación de pago** <br> Dado que el freelancer ha recibido un pago, <br>Cuando se valide la transacción, <br>Entonces recibirá una confirmación por correo electrónico. | 2 |
+| E2-US10           | Registro de clientes             | Como freelancer, quiero registrar a mis clientes para organizar mejor mis proyectos. | **Escenario 1: Registro de cliente** <br> Dado que el freelancer tiene un cliente, <br>Cuando lo registre en la plataforma, <br>Entonces podrá agregar proyectos relacionados a ese cliente. <br><br> **Escenario 2: Edición de cliente** <br> Dado que el freelancer tiene un cliente registrado, <br>Cuando edite sus datos, <br>Entonces se actualizarán automáticamente en su perfil. | 2 |
+| E3-US11           | Facturación automática           | Como freelancer, quiero que la facturación se haga de manera automática para ahorrar tiempo. | **Escenario 1: Generación de factura** <br> Dado que el freelancer ha completado un proyecto, <br>Cuando genere la factura, <br>Entonces la plataforma calculará automáticamente el monto a cobrar. <br><br> **Escenario 2: Envío automático de factura** <br> Dado que la factura se generó, <br>Cuando se finalice, <br>Entonces se enviará automáticamente al cliente. <br><br> **Escenario 3: Verificación de pago** <br> Dado que el freelancer ha generado la factura, <br>Cuando reciba el pago, <br>Entonces se actualizará su estado a "Pago recibido". | 3 |
+| E3-US12           | Soporte técnico                  | Como freelancer, quiero tener acceso a soporte técnico para resolver problemas rápidamente. | **Escenario 1: Contactar soporte** <br> Dado que el freelancer tiene un problema, <br>Cuando haga clic en el soporte, <br>Entonces podrá enviar una solicitud de ayuda. <br><br> **Escenario 2: Respuesta rápida** <br> Dado que el freelancer ha contactado soporte, <br>Cuando envíe su mensaje, <br>Entonces recibirá una respuesta dentro de las 24 horas. | 3 |
+| E3-US13           | Personalización de plataforma    | Como freelancer, quiero personalizar la interfaz de la plataforma para adaptarla a mis necesidades. | **Escenario 1: Cambiar tema de la plataforma** <br> Dado que el freelancer está en la plataforma, <br>Cuando seleccione un tema, <br>Entonces la interfaz se cambiará automáticamente. <br><br> **Escenario 2: Personalización de panel** <br> Dado que el freelancer tiene la plataforma, <br>Cuando personalice su panel, <br>Entonces se mostrarán las opciones que eligió. | 3 |
+| E4-US14           | Añadir empleados a equipo        | Como gerente, quiero agregar empleados a mi equipo para distribuir tareas eficientemente. | **Escenario 1: Añadir nuevo miembro** <br> Dado que el gerente está en la plataforma, <br>Cuando ingrese el correo electrónico de un nuevo empleado, <br>Entonces se agregará al equipo. <br><br> **Escenario 2: Asignación de roles** <br> Dado que el gerente ha añadido un empleado, <br>Cuando asigne un rol, <br>Entonces el empleado recibirá el rol asignado. | 4 |
+| E4-US15           | Gestión de horarios de empleados | Como gerente, quiero gestionar los horarios de mi equipo para asegurarnos de cumplir con los plazos. | **Escenario 1: Configuración de horarios** <br> Dado que el gerente está en la plataforma, <br>Cuando asigne horarios a los empleados, <br>Entonces los horarios se reflejarán en su calendario. <br><br> **Escenario 2: Notificación de cambios en horarios** <br> Dado que el gerente cambió los horarios, <br>Cuando se haga el ajuste, <br>Entonces los empleados recibirán una notificación del cambio. | 4 |
+| E5-US16           | Control de productividad en tiempo real | Como gerente, quiero ver la productividad de los empleados en tiempo real para mejorar la toma de decisiones. | **Escenario 1: Monitoreo de actividad** <br> Dado que el gerente está supervisando, <br>Cuando acceda a la plataforma, <br>Entonces podrá ver la productividad en tiempo real. <br><br> **Escenario 2: Notificación de inactividad** <br> Dado que el gerente está monitoreando, <br>Cuando un empleado esté inactivo, <br>Entonces recibirá una notificación sobre la inactividad. | 5 |
+| E5-US17           | Control de pago a empleados      | Como gerente, quiero gestionar los pagos de los empleados desde la plataforma para mayor eficiencia. | **Escenario 1: Generación de pago** <br> Dado que el gerente ha completado una tarea, <br>Cuando ingrese el monto correspondiente, <br>Entonces se generará automáticamente el pago. <br><br> **Escenario 2: Envío de pago** <br> Dado que el gerente ha generado un pago, <br>Cuando lo confirme, <br>Entonces se enviará al empleado. | 5 |
+| E6-US18           | Recibir actualizaciones automáticas | Como freelancer, quiero recibir actualizaciones automáticas sobre el estado de mis proyectos. | **Escenario 1: Notificación de avance** <br> Dado que el freelancer tiene proyectos, <br>Cuando haya un avance, <br>Entonces recibirá una notificación. <br><br> **Escenario 2: Resumen diario** <br> Dado que el freelancer está trabajando, <br>Cuando termine el día, <br>Entonces recibirá un resumen automático de sus actividades. | 6 |
+| E6-US19           | Historial de pagos               | Como freelancer, quiero revisar un historial de mis pagos para tener un mejor control financiero. | **Escenario 1: Ver pagos pasados** <br> Dado que el freelancer está en su perfil, <br>Cuando ingrese a la sección de pagos, <br>Entonces podrá ver todos los pagos recibidos. <br><br> **Escenario 2: Filtrar por fecha** <br> Dado que el freelancer tiene pagos, <br>Cuando seleccione una fecha específica, <br>Entonces podrá ver los pagos correspondientes. | 6 |
+| E7-US20           | Crear reporte de desempeño       | Como gerente, quiero generar reportes de desempeño de mis empleados. | **Escenario 1: Generar reporte** <br> Dado que el gerente está en la plataforma, <br>Cuando seleccione la opción de generar reporte, <br>Entonces podrá descargarlo en formato PDF. <br><br> **Escenario 2: Filtrar reporte** <br> Dado que el gerente está generando un reporte, <br>Cuando seleccione un rango de fechas, <br>Entonces el reporte se ajustará a esa selección. | 7 |
+| E7-US21           | Control de productividad por equipo | Como gerente, quiero ver la productividad de cada equipo por separado. | **Escenario 1: Filtrar por equipo** <br> Dado que el gerente tiene equipos asignados, <br>Cuando filtre por equipo, <br>Entonces podrá ver la productividad de ese equipo. <br><br> **Escenario 2: Ver comparativa** <br> Dado que el gerente tiene varios equipos, <br>Cuando compare, <br>Entonces podrá visualizar las diferencias de productividad entre ellos. | 7 |
+
+
+### 3.3. Impact Mapping.
+
+### Segmento gerente:
+![Impact Gerente](https://github.com/user-attachments/assets/9413c590-87a8-45a4-834a-07891fbcd4e9)
+
+
+### Segmento freelancer:
+
+![Journey Letizia](https://github.com/user-attachments/assets/743676ba-3202-43b4-9b5b-6ad59226ae27)
+
+
+### 3.4. Product Backlog.
+
+# Product Backlog
+
+| **Orden** | **User Story ID** | **Título**                         | **Descripción**                                                                                                                                          | **Prioridad** | **Story Points** |
+|-----------|-------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|
+| 1         | E1-US01           | Registro de cuenta                 | Como freelancer o gerente, quiero registrarme en la plataforma para gestionar mis proyectos.                                                             | Alta          | 3                |
+| 2         | E1-US02           | Inicio de sesión                   | Como freelancer, quiero iniciar sesión en la plataforma para gestionar mis proyectos y clientes.                                                         | Alta          | 3                |
+| 3         | E1-US03           | Gestión de proyectos               | Como freelancer, quiero gestionar mis proyectos para cumplir con los plazos establecidos.                                                               | Alta          | 5                |
+| 4         | E1-US04           | Notificaciones de cliente          | Como freelancer, quiero recibir notificaciones cuando un cliente haga comentarios en un proyecto para poder responder rápidamente.                         | Alta          | 3                |
+| 5         | E1-US05           | Control de pagos                   | Como freelancer, quiero gestionar los pagos para que se realicen sin problemas.                                                                          | Alta          | 5                |
+| 6         | E2-US06           | Asignación de tareas               | Como gerente, quiero asignar tareas a mi equipo para llevar un seguimiento del progreso.                                                                  | Alta          | 3                |
+| 7         | E2-US07           | Control de horarios                | Como gerente, quiero controlar los horarios de entrada y salida de los empleados para mejorar la gestión.                                                 | Alta          | 5                |
+| 8         | E2-US08           | Supervisión en tiempo real         | Como gerente, quiero ver la ubicación en tiempo real de mis empleados para mejorar la supervisión.                                                        | Alta          | 8                |
+| 9         | E2-US09           | Integración de pagos               | Como freelancer, quiero recibir pagos mediante billeteras digitales para gestionar mis finanzas rápidamente.                                              | Alta          | 5                |
+| 10        | E2-US10           | Registro de clientes               | Como freelancer, quiero registrar a mis clientes para organizar mejor mis proyectos.                                                                    | Alta          | 3                |
+| 11        | E3-US11           | Facturación automática             | Como freelancer, quiero que la facturación se haga de manera automática para ahorrar tiempo.                                                             | Alta          | 5                |
+| 12        | E3-US12           | Soporte técnico                    | Como freelancer, quiero tener acceso a soporte técnico para resolver problemas rápidamente.                                                              | Baja          | 2                |
+| 13        | E3-US13           | Personalización de plataforma      | Como freelancer, quiero personalizar la interfaz de la plataforma para adaptarla a mis necesidades.                                                       | Baja          | 2                |
+| 14        | E4-US14           | Añadir empleados a equipo          | Como gerente, quiero agregar empleados a mi equipo para distribuir tareas eficientemente.                                                                | Alta          | 3                |
+| 15        | E4-US15           | Gestión de horarios de empleados   | Como gerente, quiero gestionar los horarios de mi equipo para asegurarnos de cumplir con los plazos.                                                      | Alta          | 5                |
+| 16        | E5-US16           | Control de productividad en tiempo real | Como gerente, quiero ver la productividad de los empleados en tiempo real para mejorar la toma de decisiones.                                              | Alta          | 8                |
+| 17        | E5-US17           | Control de pago a empleados        | Como gerente, quiero gestionar los pagos de los empleados desde la plataforma para mayor eficiencia.                                                      | Alta          | 5                |
+| 18        | E6-US18           | Recibir actualizaciones automáticas | Como freelancer, quiero recibir actualizaciones automáticas sobre el estado de mis proyectos.                                                              | Baja          | 2                |
+| 19        | E6-US19           | Historial de pagos                 | Como freelancer, quiero revisar un historial de mis pagos para tener un mejor control financiero.                                                        | Alta          | 3                |
+| 20        | E7-US20           | Crear reporte de desempeño         | Como gerente, quiero generar reportes de desempeño de mis empleados.                                                                                     | Alta          | 5                |
+| 21        | E7-US21           | Control de productividad por equipo | Como gerente, quiero ver la productividad de cada equipo por separado.                                                                                   | Alta          | 5                |
 
