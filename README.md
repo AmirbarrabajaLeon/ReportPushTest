@@ -208,7 +208,7 @@ Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page po
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "ChapaTuRuta"
+En el primer sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "FlowSenses"
 
 <table> 
   <tr>
