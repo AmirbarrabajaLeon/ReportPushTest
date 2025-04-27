@@ -911,6 +911,23 @@ API Rest Component Diagram:
 ![Captura de pantalla 2025-04-24 191604](https://github.com/user-attachments/assets/96318d7a-6d9a-487a-96ba-4b6297d316be)
 
 ### 4.7.2. Class Dictionary
+**Empresa**
+La clase Empresa representa a una compañía que puede gestionar varios empleados dentro del sistema. Tiene una relación de asociación con User.
+
+**Freelancer**
+La clase Freelancer representa a un trabajador independiente que ofrece servicios. Tiene una relación de asociación con User.
+
+**Calendario**
+La clase Calendario representa el calendario personal de cada usuario, donde se gestionan los eventos. Tiene una relación de agregación con Evento y de asociación con User.
+
+**Evento**
+La clase Evento representa un evento programado en el calendario de un usuario. Tiene una relación de agregación con Calendario.
+
+**Tarea**
+La clase Tarea representa una actividad o trabajo que debe realizar un usuario. Tiene una relación de asociación con User y de dependencia con Reporte.
+
+**Reporte**
+La clase Reporte representa un informe de la productividad de un usuario basado en su rendimiento de tareas. Tiene una relación de asociación con User y Tarea.
 
 ## 4.8 Database Design
 
