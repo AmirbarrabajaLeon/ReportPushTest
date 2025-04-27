@@ -902,6 +902,8 @@ Para facilitar la localización de información sin búsqueda explícita:
 ![structurizr-84132-Diagram2](https://github.com/user-attachments/assets/b8446713-aaf0-4a49-952c-6bb1d27e4441)
 
 ### 4.6.3. Software Architecture Components Diagrams
+API Rest Component Diagram:
+![structurizr-84132-Diagram3](https://github.com/user-attachments/assets/b12a425c-9604-4f73-99f0-0d6ef5e45013)
 
 ## 4.7. Software Object-Oriented Design
 
