@@ -85,3 +85,7 @@ Con el fin de crear el To-be Scenario Mapping, el equipo definió cómo se optim
 | 25    | E9-US25                            | Implementación de API REST    | Crear APIs RESTful para comunicación frontend-backend              | Alta      | 8            |
 | 26    | E9-US26                            | Monitorización y logging      | Sistema de logs y alertas para errores y rendimiento                | Media     | 5            |
 | 27    | E9-US27                            | Gestión de base de datos      | Diseñar, mantener y optimizar base de datos                         | Alta      | 8            |
+
+Product Backlog en Trello:
+https://trello.com/invite/b/682761e606eb534f5e6f31c3/ATTI5975894cfeebd562c35b00b606e33bc37D089D52/user-stories
+![image](https://github.com/user-attachments/assets/c7dd4e63-9365-4d8a-b03f-172737120a87)
