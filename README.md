@@ -96,6 +96,16 @@ Con el fin de crear el To-be Scenario Mapping, el equipo definió cómo se optim
 | 25    | E9-US25                            | Implementación de API REST    | Crear APIs RESTful para comunicación frontend-backend              | Alta      | 8            |
 | 26    | E9-US26                            | Monitorización y logging      | Sistema de logs y alertas para errores y rendimiento                | Media     | 5            |
 | 27    | E9-US27                            | Gestión de base de datos      | Diseñar, mantener y optimizar base de datos                         | Alta      | 8            |
+| 28    | E10-US28                           | Registro con selección de plan | Permitir al usuario registrarse seleccionando un plan con validación de campos. | Alta      | 5            |
+| 29    | E10-US29                           | Recuperación de contraseña | Mostrar interfaz para solicitar un enlace de recuperación de contraseña. | Alta      | 3            |
+| 30    | E10-US30                           | Visualización del resumen diario en la pantalla de inicio | Mostrar un card con resumen diario de horas trabajadas, tareas y productividad. | Media     | 3            |
+| 31    | E10-US31                           | Gestión de tareas con filtrado y búsqueda | Permitir buscar y filtrar tareas con opciones de edición y marcado como completadas. | Media     | 8            |
+| 32    | E10-US32                           | Descarga de facturas | Mostrar facturas con botón de descarga y estado visible. | Media     | 3            |
+| 33    | E10-US33                           | Interacción con el cronómetro en la pantalla de time tracking | Permitir iniciar y reiniciar un cronómetro visualmente. | Baja      | 2            |
+| 34    | E10-US34                           | Visualización de proyectos en la pantalla de clients/projects | Mostrar una lista de proyectos con cliente y estado en cards. | Media     | 3            |
+| 35    | E10-US35                           | Actualización de perfil en la pantalla de settings | Mostrar formulario para editar perfil con mensajes de confirmación o error. | Media     | 3            |
+| 36    | E10-US36                           | Visualización de recordatorios en la pantalla de inicio | Mostrar card de recordatorios con botón para agregar nuevos. | Baja      | 3            |
+| 37    | E10-US37                           | Interacción con el calendario en la pantalla de calendar/schedule | Mostrar calendario interactivo con eventos/tareas resaltados. | Media     | 5            |
 
 Product Backlog en Trello:
 https://trello.com/invite/b/682761e606eb534f5e6f31c3/ATTI5975894cfeebd562c35b00b606e33bc37D089D52/user-stories
