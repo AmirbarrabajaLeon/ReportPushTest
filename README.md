@@ -896,6 +896,8 @@ Para facilitar la localización de información sin búsqueda explícita:
 ![Image](https://github.com/user-attachments/assets/a9bf2af6-e816-42d3-996b-9f6336645761)
 
 ![Image](https://github.com/user-attachments/assets/4bd084bc-37b9-4a55-b887-b1a73cb1436f)
+![image](https://github.com/user-attachments/assets/af61c1dd-7c9f-4767-adde-cb7b2e4bbea6)
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
