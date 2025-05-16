@@ -150,7 +150,7 @@ E8-US27 Cambiar información según segmento
 
 | Team Member          | GitHub Username | Gestión de Proyectos | Landing Page | Despliegue | IA/Data Analysis |
 | -------------------- | --------------- | -------------------- | ------------ | ---------- | ---------------- |
-| Pietro \[Apellido]   | \[A COMPLETAR]  | L                    | C            | C          | C                |
+| Pietro \[Apellido]   |  Maximoff19  | L                    | C            | C          | C                |
 | Amir \[Apellido]     | \[A COMPLETAR]  | C                    | C            | L          | L                |
 | Carlos \[Apellido]   | \[A COMPLETAR]  | C                    | L            | C          | C                |
 | Stephano \[Apellido] | \[A COMPLETAR]  | C                    | L            | C          | C                |
@@ -234,4 +234,107 @@ En el primer sprint, hemos realizado el diseño, la programación y el despligue
 
 ![image](https://github.com/user-attachments/assets/cdee531a-e551-4689-a800-f5b360fcf5e3)
 
+#### 5.2.2.1 Sprint Planning 2
 
+### Sprint Planning Meeting Summary
+
+| Elemento                             | Detalle                                                                                                                 |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                       | Sprint 2                                                                                                                |
+| **Sprint Planning Background**     | Continuación del desarrollo de la Landing Page y despliegue de la primera versión funcional del Frontend Web Application.|
+| **Date**                          | 2025-05-01                                                                                                              |
+| **Time**                          | 04:30 PM                                                                                                                |
+| **Location**                      | Reunión virtual vía Google Meet                                                                                         |
+| **Prepared By**                   | Amir Castro                                                                                                             |
+| **Attendees**                    | Pietro Osores, Amir Castro, Joaquín, Stephano, Carlos                                                                   |
+| **Sprint 1 – Review Summary**     | Se completó la navegación fluida, alternancia de contenido y sección de testimonios.                                     |
+| **Sprint 1 – Retrospective Summary** | Se mejoró la comunicación entre roles y la gestión de tareas.                                                         |
+| **Sprint 2 – Goal**               | Desplegar la primera versión del Frontend Web Application y optimizar el diseño y la experiencia de usuario.             |
+| **Sprint 2 – Velocity**           | 25 Story Points (estimado)                                                                                              |
+| **Sprint 2 – Sum of Story Points**| 25 Story Points                                                                                                         |
+
+---
+
+#### 5.2.2.2 Aspect Leaders and Collaborators
+
+### Leadership and Collaboration Matrix (LACX)
+
+| Team Member          | GitHub Username | Gestión de Proyectos | Landing Page | Frontend Web App | Despliegue | Testing & QA |
+| -------------------- | --------------- | -------------------- | ------------ | ---------------- | ---------- | ------------ |
+| Pietro Osores        | Maximoff19  | L                    | C            | L                | C          | C            |
+| Amir Castro          | \[A COMPLETAR]  | C                    | C            | C                | L          | L            |
+| Carlos \[Apellido]   | \[A COMPLETAR]  | C                    | L            | C                | C          | C            |
+| Stephano \[Apellido] | \[A COMPLETAR]  | C                    | L            | C                | C          | C            |
+| Joaquín \[Apellido]  | \[A COMPLETAR]  | L                    | C            | C                | C          | L            |
+
+> **L**: Leader (responsable del aspecto)  
+> **C**: Collaborator (colaborador activo)
+
+---
+
+#### 5.2.2.3 Sprint Backlog 2
+
+
+
+### Sprint Backlog - Sprint 2
+
+
+
+#### 5.2.2.4 Development Evidence for Sprint Review
+
+Durante el Sprint 2, el equipo logró desplegar la primera versión funcional del Frontend Web Application, optimizando la navegación y experiencia de usuario. A continuación, se muestran imágenes y evidencia de las funcionalidades implementadas.
+
+![Image](https://github.com/user-attachments/assets/859605e5-dc91-4d25-b8c2-db3f4fb755af)
+
+![Image](https://github.com/user-attachments/assets/90a31749-a5a2-43bb-be4e-e6245ea5cf9b)
+
+![Image](https://github.com/user-attachments/assets/0be42d20-03ca-49d8-a425-164634aa8fee)
+
+![Image](https://github.com/user-attachments/assets/7fe24bf8-d6d6-484b-ac05-6f36b1ec4b8d)
+
+![Image](https://github.com/user-attachments/assets/2940fe2c-ddbc-4bfa-8c6c-af476f234af7)
+
+![Image](https://github.com/user-attachments/assets/8671ffe3-4028-4856-abb5-682674119fc0)
+
+![Image](https://github.com/user-attachments/assets/d7021458-3022-4dcb-bd88-d75028f4c9f4)
+
+![Image](https://github.com/user-attachments/assets/eb6b13c6-4d26-4359-a589-02503a7b42f6)
+
+![Image](https://github.com/user-attachments/assets/c49ad655-600a-4d9f-9d8f-758de37e2f8b)
+
+![Image](https://github.com/user-attachments/assets/caa730d3-449a-430e-87ad-699b1263785f)
+
+---
+
+#### 5.2.2.5 Execution Evidence for Sprint Review
+
+Durante este sprint, el equipo realizó pruebas funcionales y de integración para garantizar la estabilidad y usabilidad del sistema. Se llevaron a cabo correcciones inmediatas tras la detección de errores.
+
+---
+
+#### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+
+En el segundo sprint, hemos realizado el diseño, la programación y el despligue de la Landing Page que presentará nuesta apliación web "FlowSenses"
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+
+  <tr>
+    <td> https://1asi0729-2510-4317-g5-flow-senses.github.io/LandingPage/ </td>
+    <td> Desplegar Landing Page de FlowSenses</td>
+  </tr>
+</table>
+
+---
+
+#### 5.2.2.7 Software Deployment Evidence for Sprint Review
+
+La primera versión del Frontend Web Application fue desplegada exitosamente en el servidor de producción y está disponible para pruebas de usuarios.
+
+---
+
+#### 5.2.2.8 Team Collaboration Insights during Sprint
