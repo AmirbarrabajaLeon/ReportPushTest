@@ -14,12 +14,40 @@ La **misión** de Flow Sense es transformar la manera en que las personas y las 
 
 ### **1.1.2. Perfiles de integrantes del equipo**
 
-
-- **Pietro Osores Marchese** – Soy estudiante de Ingeniería de Software con un fuerte interés en la innovación tecnológica y el diseño centrado en el usuario. Me considero una persona organizada, con habilidades para liderar y analizar problemas de forma estructurada. En este proyecto, me encargué de definir los perfiles del equipo, analizar los antecedentes del problema y desarrollar todo el enfoque Lean UX, estableciendo así las bases conceptuales de nuestra solución.
-- **Amir Castro** – CTO: Responsable del desarrollo tecnológico, con experiencia en arquitectura de software, IoT y AI.
-- **Carlos [Apellido]** – UX/UI Designer: Diseñador centrado en la experiencia de usuario, encargado de construir interfaces intuitivas y accesibles.
-- **Stephano Moscoso** –Tengo 20 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Me ha interasado mucho la creación de paginas web para diversos objetivos. Manejo algunos lenguajes de programación como javascript, C++, C+, Python, entre otros. Considero que tengo las habilidades de comunicación efectiva, organización, proactividad, resolución de problemas, entre otras. Espero aportar de manera satisfactoria en mi grupo para terminar de manera exitosa el proyecto.
-- **Joaquín Carranza** – Hola, soy Joaquín Carranza. Tengo 24 años y actualmente curso el sexto ciclo de la carrera de Ingeniería de Software. Me gusta la tecnología y la forma en que ayuda a las personas a resolver problemas de manera más rápida y eficiente. Me interesa especialmente el manejo de datos y la ciberseguridad. Siento que puedo aportar a mi equipo ideas desde otra perspectiva, ya que siempre me cuestiono cómo se podría mejorar el producto o hacia qué objetivo estamos apuntando.
+<table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/3d5ba274-14f6-4c68-9a08-525ea633787b" alt="Foto de Pietro"></td>
+      <td class="profile-info">
+        <strong>Pietro Osores Marchese</strong> – Soy estudiante de Ingeniería de Software con un fuerte interés en la innovación tecnológica y el diseño centrado en el usuario. Me considero una persona organizada, con habilidades para liderar y analizar problemas de forma estructurada. En este proyecto, me encargué de definir los perfiles del equipo, analizar los antecedentes del problema y desarrollar todo el enfoque Lean UX, estableciendo así las bases conceptuales de nuestra solución.
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/2ee104b3-72c9-4a2a-bc4b-968e75fa3936" alt="Foto de Amir"></td>
+      <td class="profile-info">
+        <strong>Amir Castro</strong> – CTO: Responsable del desarrollo tecnológico, con experiencia en arquitectura de software, IoT y AI.
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/d87215ff-b192-4b01-a72b-185c98d1a28e" alt="Foto de Carlos"></td>
+      <td class="profile-info">
+        <strong>Carlos [Apellido]</strong> – UX/UI Designer: Diseñador centrado en la experiencia de usuario, encargado de construir interfaces intuitivas y accesibles.
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/45d38524-daf6-4036-9de6-e3cdda00b5b2" alt="Foto de Stephano"></td>
+      <td class="profile-info">
+        <strong>Stephano Moscoso</strong> – Tengo 20 años y estoy estudiando actualmente en la Universidad Peruana de Ciencias Aplicadas. Me ha interesado mucho la creación de páginas web para diversos objetivos. Manejo algunos lenguajes de programación como JavaScript, C++, C+, Python, entre otros. Considero que tengo habilidades de comunicación efectiva, organización, proactividad, resolución de problemas, entre otras. Espero aportar de manera satisfactoria en mi grupo para terminar de manera exitosa el proyecto.
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/f4fb8710-0594-4a11-a7f6-edcb696ea053" alt="Foto de Joaquín"></td>
+      <td class="profile-info">
+        <strong>Joaquín Carranza</strong> – Hola, soy Joaquín Carranza. Tengo 24 años y actualmente curso el sexto ciclo de la carrera de Ingeniería de Software. Me gusta la tecnología y la forma en que ayuda a las personas a resolver problemas de manera más rápida y eficiente. Me interesa especialmente el manejo de datos y la ciberseguridad. Siento que puedo aportar a mi equipo ideas desde otra perspectiva, ya que siempre me cuestiono cómo se podría mejorar el producto o hacia qué objetivo estamos apuntando.
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
 
 ## **1.2.2. Lean UX Process**
 
