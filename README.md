@@ -93,64 +93,68 @@ El proceso de despliegue fue automatizado usando plataformas como **Vercel**, **
 
 ### 5.2.1. Sprint 1
 
-Durante esta etapa se priorizaron funcionalidades esenciales que permiten cubrir el flujo base tanto para usuarios del segmento freelancer como para gerentes. El sprint tuvo una duración estimada de una semana y se trabajó bajo un enfoque ágil tipo Scrum.
+Durante esta etapa se priorizaron funcionalidades esenciales que permiten cubrir el flujo base tanto para usuarios del segmento freelancer como para visitantes de la Landing Page. El sprint tuvo una duración estimada de una semana y se trabajó bajo un enfoque ágil tipo Scrum.
 
 El equipo dedicó especial atención a la identificación del Sprint Goal, siguiendo el enfoque propuesto por Scrum.org, basado en outcome, impact, customer y event. El objetivo se redactó con un enfoque en negocio y usuario, en formato SMART:
 
 Sprint 1 Goal:
 
-`Our focus is on delivering a functional user onboarding and task assignment module. We believe it delivers immediate usability and confidence in the product to freelancers and team managers. This will be confirmed when users can register, log in, create projects, and assign tasks successfully.`
+`Our focus is on delivering a functional and user-friendly landing page. We believe it delivers immediate understanding and engagement to new users. This will be confirmed when visitors can easily navigate, explore plans, read testimonials, and switch between freelancer and company information.`
 
 Los objetivos principales del Sprint 1 fueron:
 
-- Implementar sistema de registro e inicio de sesión.
+Implementar navegación fluida y accesible entre secciones de la Landing Page.
 
-- Desarrollar la vista de gestión de proyectos para freelancers.
+Desarrollar la función de alternar información entre empresas y freelancers.
 
-- Implementar la función de asignación de tareas para gerentes.
+Desplegar la sección de testimonios y tecnologías utilizadas.
 
-- Desplegar una versión funcional de la landing page.
+Optimizar el diseño y estructura de la página.
 
 Estas decisiones se basaron en las siguientes User Stories priorizadas:
 
-- E1-US01 Registro de cuenta
+E8-US22 Navegación fluida entre secciones
 
-- E1-US02 Inicio de sesión
+E8-US23 Alternar entre información para clientes
 
-- E1-US03 Gestión de proyectos
+E8-US24 Comparativa de planes
 
-- E2-US06 Asignación de tareas
+E8-US25 Mostrar tecnologías utilizadas
+
+E8-US26 Ver testimonios de otros usuarios
+
+E8-US27 Cambiar información según segmento
 
 #### 5.2.1.1. Sprint Planning 1.
 
 ### Sprint Planning Meeting Summary
 
-| Elemento                         | Detalle                                                                 |
-|----------------------------------|-------------------------------------------------------------------------|
-| **Sprint #**                     | Sprint 1                                                               |
-| **Sprint Planning Background**   | Inicio de desarrollo funcional para usuarios clave                     |
-| **Date**                         | 2025-04-18                                                             |
-| **Time**                         | 05:00 PM                                                               |
-| **Location**                     | Reunión virtual vía Google Meet                                       |
-| **Prepared By**                  | Amir Castro                                                        |
-| **Attendees**                    | Pietro Osores, Joaquin, Sthepano, Carlos                              |
-| **Sprint 0 – Review Summary**    | Se finalizó la planificación general del proyecto y diseño UI inicial. |
-| **Sprint 0 – Retrospective Summary** | Se identificó la necesidad de roles claros y mayor documentación interna. |
-| **Sprint 1 – Goal**              | Tener un MVP funcional que permita login, gestión y asignación básica. Ofrecer funciones de incorporación de usuarios y asignación de tareas utilizables tanto por freelancers como por managers. |
-| **Sprint 1 – Velocity**          | 20 Story Points (estimado)                                             |
-| **Sprint 1 – Sum of Story Points**| 18 Story Points                                                        |
+| Elemento                             | Detalle                                                                                                                 |
+| ------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **Sprint #**                         | Sprint 1                                                                                                                |
+| **Sprint Planning Background**       | Inicio de desarrollo de la Landing Page y funcionalidades clave                                                         |
+| **Date**                             | 2025-04-18                                                                                                              |
+| **Time**                             | 05:00 PM                                                                                                                |
+| **Location**                         | Reunión virtual vía Google Meet                                                                                         |
+| **Prepared By**                      | Amir Castro                                                                                                             |
+| **Attendees**                        | Pietro Osores, Joaquín, Stephano, Carlos                                                                                |
+| **Sprint 0 – Review Summary**        | Se finalizó la planificación general del proyecto y diseño UI inicial.                                                  |
+| **Sprint 0 – Retrospective Summary** | Se identificó la necesidad de roles claros y mayor documentación interna.                                               |
+| **Sprint 1 – Goal**                  | Tener un MVP funcional de la Landing Page que permita navegación, cambio de información y visualización de testimonios. |
+| **Sprint 1 – Velocity**              | 20 Story Points (estimado)                                                                                              |
+| **Sprint 1 – Sum of Story Points**   | 20 Story Points         
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
 ### Leadership and Collaboration Matrix (LACX)
 
-| Team Member         | GitHub Username | Registro/Login | Gestión de Proyectos | Asignación de Tareas | Landing Page | Despliegue | IA/Data Analysis |
-|---------------------|------------------|----------------|----------------------|----------------------|--------------|------------|------------------|
-| Pietro [Apellido]   | [A COMPLETAR]    | C              | L                    | L                    | C            | C          | C                |
-| Amir [Apellido]     | [A COMPLETAR]    | C              | C                    | C                    | C            | L          | L                |
-| Carlos [Apellido]   | [A COMPLETAR]    | C              | C                    | C                    | L            | C          | C                |
-| Stephano [Apellido] | [A COMPLETAR]    | C              | C                    | L                    | L            | C          | C                |
-| Joaquín [Apellido]  | [A COMPLETAR]    | C              | L                    | C                    | C            | C          | L                |
+| Team Member          | GitHub Username | Gestión de Proyectos | Landing Page | Despliegue | IA/Data Analysis |
+| -------------------- | --------------- | -------------------- | ------------ | ---------- | ---------------- |
+| Pietro \[Apellido]   | \[A COMPLETAR]  | L                    | C            | C          | C                |
+| Amir \[Apellido]     | \[A COMPLETAR]  | C                    | C            | L          | L                |
+| Carlos \[Apellido]   | \[A COMPLETAR]  | C                    | L            | C          | C                |
+| Stephano \[Apellido] | \[A COMPLETAR]  | C                    | L            | C          | C                |
+| Joaquín \[Apellido]  | \[A COMPLETAR]  | L                    | C            | C          | L                |
 
 > **L**: Leader (responsable del aspecto)  
 > **C**: Collaborator (colaborador activo)
@@ -164,17 +168,17 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint y
 
 Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
 
-![Captura de pantalla 2025-04-24 185213](https://github.com/user-attachments/assets/bad7d3bd-46b6-43b5-908d-d69237ec8917)
+[Imagen por modificar]
 
-| User Story ID | User Story Title         | Task ID | Work-Item / Task                               | Description                                                  | Estimation (hrs) | Assigned To      | Status           |
-|---------------|--------------------------|---------|------------------------------------------------|--------------------------------------------------------------|------------------|------------------|------------------|
-| E1-US01       | Registro de cuenta       | TSK-01  | Crear formulario de registro                   | Formulario con campos de email, contraseña y validaciones     | 5                | Carlos           | InProcess        |
-| E1-US01       | Registro de cuenta       | TSK-02  | Integración con Google OAuth                   | Login vía cuenta de Google usando Firebase/Auth0             | 6                | Amir             | To-do            |
-| E1-US02       | Inicio de sesión         | TSK-03  | Backend login endpoint                         | Autenticación y generación de token                          | 4                | Stephano         | Done             |
-| E1-US03       | Gestión de proyectos     | TSK-04  | Vista de panel de proyectos                    | CRUD visual para proyectos                                   | 6                | Joaquín          | InProcess        |
-| E2-US06       | Asignación de tareas     | TSK-05  | API para asignación de tareas                  | Endpoint para asignar tareas a miembros                      | 5                | Stephano         | InProcess        |
-| LDP-01        | Landing Page             | TSK-06  | Maquetación de sección principal               | Header, value proposition y CTA                              | 4                | Carlos           | Done             |
-| DEP-01        | Despliegue               | TSK-07  | Configurar pipeline de deploy en Vercel        | Configurar deploy desde GitHub a Vercel                      | 3                | Amir             | Done             |
+| User Story ID | User Story Title                   | Task ID | Work-Item / Task                        | Description                                                    | Estimation (hrs) | Assigned To | Status    |
+| ------------- | ---------------------------------- | ------- | --------------------------------------- | -------------------------------------------------------------- | ---------------- | ----------- | --------- |
+| E8-US22       | Navegación fluida entre secciones  | TSK-01  | Implementar navegación con anclajes     | Menú que permite navegar entre secciones                       | 4                | Carlos      | Done |
+| E8-US23       | Alternar información para clientes | TSK-02  | Configurar botón de alternar            | Cambia contenido entre empresas y freelancers                  | 3                | Amir        | Done    |
+| E8-US24       | Comparativa de planes              | TSK-03  | Crear tabla comparativa de planes       | Tabla que muestra diferencias entre planes                     | 3                | Carlos      | Done      |
+| E8-US25       | Mostrar tecnologías utilizadas     | TSK-04  | Diseño de sección de tecnologías        | Íconos y descripciones de tecnologías utilizadas               | 2                | Stephano    | Done      |
+| E8-US26       | Ver testimonios de otros usuarios  | TSK-05  | Maquetar sección de testimonios         | Testimonios dinámicos y alternables                            | 3                | Joaquín     | Done |
+| E8-US27       | Cambiar información según segmento | TSK-06  | Configurar CTA dinámico                 | Botón que cambia entre información para empresas y freelancers | 3                | Amir        | Done     |
+| DEP-01        | Despliegue                         | TSK-07  | Configurar pipeline de deploy en Github | Configurar deploy desde Vercel a GitHub                        | 3                | Amir        | Done      |
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 Después de finalizar el Sprint 1, hemos logrado implementar algunas de las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
@@ -204,7 +208,7 @@ Después de finalizar el Sprint 1, hemos logrado implementar algunas de las secc
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-Durante este sprint 1 el equipo se enfocó en el desarrollo de la lading page por lo cual no se requirio pruebas de testing.
+Durante este sprint 1 el equipo se enfocó en el desarrollo de la landing page por lo cual no se requirio pruebas de testing.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
