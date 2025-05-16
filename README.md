@@ -923,7 +923,8 @@ API Rest Component Diagram:
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
-![Captura de pantalla 2025-04-24 191604](https://github.com/user-attachments/assets/96318d7a-6d9a-487a-96ba-4b6297d316be)
+![Main](https://github.com/user-attachments/assets/17291806-b83b-4596-81c4-6b0254decc49)
+
 
 ### 4.7.2. Class Dictionary
 **Empresa**:
