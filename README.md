@@ -166,9 +166,9 @@ Durante el Sprint 1, el objetivo principal fue construir una base funcional mín
 ### Sprint Backlog - Sprint 1
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
 
-Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5ec2ff75ec31FE4502/artcollab-sprint1
+Link de Trello: [https://trello.com/invite/b/6725085eef376b7a366078a5/ATTI35c5a7b65f9c3eade04684aff95452e5810D9665/backlog]
 
-[Imagen por modificar]
+![image](https://github.com/user-attachments/assets/0296d3ac-00d0-46cd-98eb-961a2b17e848)
 
 | User Story ID | User Story Title                   | Task ID | Work-Item / Task                        | Description                                                    | Estimation (hrs) | Assigned To | Status    |
 | ------------- | ---------------------------------- | ------- | --------------------------------------- | -------------------------------------------------------------- | ---------------- | ----------- | --------- |
