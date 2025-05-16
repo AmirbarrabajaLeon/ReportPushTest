@@ -883,7 +883,19 @@ Para facilitar la localización de información sin búsqueda explícita:
 
 ### 4.4.1. Web Applications Wireframes
 **Wireframe de inicio de sesión**
-![Captura de pantalla 2025-04-24 165601](https://github.com/user-attachments/assets/5b8e08f7-a316-4c2f-8da6-e33b960a4a89)
+![Image](https://github.com/user-attachments/assets/73900389-2aa7-48f0-9de2-9103d114e9d4)
+
+![Image](https://github.com/user-attachments/assets/3b60c66e-ff67-4bd3-8c61-a1fdbf19ea91)
+
+![Image](https://github.com/user-attachments/assets/5cff645d-0d99-4c0b-9a09-c6e5d92ae045)
+
+![Image](https://github.com/user-attachments/assets/162fc474-f675-4d0b-9df7-ef17a122eb12)
+
+![Image](https://github.com/user-attachments/assets/22b352b5-3864-4bed-8a4e-e229a5d10c00)
+
+![Image](https://github.com/user-attachments/assets/a9bf2af6-e816-42d3-996b-9f6336645761)
+
+![Image](https://github.com/user-attachments/assets/4bd084bc-37b9-4a55-b887-b1a73cb1436f)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
