@@ -177,8 +177,7 @@ Link de Trello: https://trello.com/invite/b/jhlFVuLG/ATTIcee340e6d0336619634d5d5
 | E8-US24       | Comparativa de planes              | TSK-03  | Crear tabla comparativa de planes       | Tabla que muestra diferencias entre planes                     | 3                | Carlos      | Done      |
 | E8-US25       | Mostrar tecnologías utilizadas     | TSK-04  | Diseño de sección de tecnologías        | Íconos y descripciones de tecnologías utilizadas               | 2                | Stephano    | Done      |
 | E8-US26       | Ver testimonios de otros usuarios  | TSK-05  | Maquetar sección de testimonios         | Testimonios dinámicos y alternables                            | 3                | Joaquín     | Done |
-| E8-US27       | Cambiar información según segmento | TSK-06  | Configurar CTA dinámico                 | Botón que cambia entre información para empresas y freelancers | 3                | Amir        | Done     |
-| DEP-01        | Despliegue                         | TSK-07  | Configurar pipeline de deploy en Github | Configurar deploy desde Vercel a GitHub                        | 3                | Amir        | Done      |
+| E8-US27       | Cambiar información según segmento | TSK-06  | Configurar CTA dinámico                 | Botón que cambia entre información para empresas y freelancers | 3                | Pietro        | Done     |
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 Después de finalizar el Sprint 1, hemos logrado implementar algunas de las secciones de nuestra Landing Page, aunque con algunos desperfectos en cuanto a diseño. A continuación, te invitamos a explorar nuestros avances a través de imágenes que muestran el resultado obtenido.
