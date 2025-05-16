@@ -184,6 +184,11 @@ Ingrid considera fundamental contar con un sistema que gestione los horarios de 
 
 **Link de la entrevista:** [Enlace Entrevista Ingrid](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/ES1lbUGmzaZBgHztGdCRqIMBEwWiFm7n1clXRJijo9frDg?e=E3Y9rK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+**Duración:**
+- Inicio: 0:01
+
+- Fin: 6:45
+
 **Foto de evidencia de la entrevista:**  
 ![Entrevista Ingrid](https://github.com/user-attachments/assets/260c2186-986a-49af-9ce9-bcdedef1f699)
 
@@ -207,7 +212,12 @@ Le gustaría contar con datos en tiempo real sobre avance de tareas, tiempos mue
 
 Anderson cree que su equipo está dispuesto a probar nuevas herramientas si son sencillas y útiles. Considera clave una función que muestre el progreso de cada tarea, lo que facilitaría la gestión de equipos grandes y mejoraría la eficiencia general.
 
-**Link de la entrevista:** [Enlace Entrevista Anderson]([https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/Ed_kAsD-gwxBpQRQzMU61VMBSsJGslMwKjqvCIFAnxkGDA?e=a2XHlx))
+**Link de la entrevista:** [Enlace Entrevista Anderson](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20191b935_upc_edu_pe/Ed_kAsD-gwxBpQRQzMU61VMBSsJGslMwKjqvCIFAnxkGDA?e=a2XHlx)
+
+**Duración:**
+- Inicio: 0:03
+- Fin: 5:06
+
 
 **Foto de evidencia de la entrevista:**  
 ![Entrevista Anderson](https://github.com/user-attachments/assets/830ae84f-3d7c-41d8-93f5-7369a007df40)
@@ -231,6 +241,11 @@ Letizia valora tener control sobre su horario y trabajo, ya que le permite organ
 En cuanto a la facturación, Letizia usa billeteras digitales como YAPE y BCP para gestionar los pagos, por lo que valora la agilidad de los sistemas de pago. Además, expresó su interés en colaborar con ilustradores y en tener un contacto directo con ellos a través de una plataforma que permita chats en vivo o videollamadas. Finalmente, mencionó que le gustaría que la plataforma centralice todas sus necesidades laborales, desde la gestión de tareas hasta la facturación, eliminando la necesidad de usar varias herramientas al mismo tiempo.
 
 **Link de la entrevista:** [Enlace Entrevista Letizia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EY1mS3V1TnlCjECGfDkXUAUBoVj7q7pWOKDLfxtNyTjCMA?e=V7dHYl)
+
+**Duración:**
+- Inicio: 0:01
+- Fin: 7:50
+
 
 **Foto de evidencia de la entrevista:**  
 ![Entrevista Letizia](https://github.com/user-attachments/assets/a3f7e359-5a36-4767-9953-c47524e30e3f)
@@ -256,6 +271,11 @@ En resumen, Rodrigo busca una herramienta eficiente que lo ayude a gestionar mej
 
 **Link de la entrevista:** [Enlace Entrevista Rodrigo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
 
+**Duración:**
+- Inicio: 0:02
+- Fin: 3:25
+
+
 **Foto de evidencia de la entrevista:**  
 ![Entrevista Rodrigo](https://github.com/user-attachments/assets/2e9e4a28-1798-496c-9aef-53e5e55f5f1b)
 
@@ -280,6 +300,11 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 
 **Link de la entrevista:** [Enlace Entrevista Diego](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EXn_e16u88tFlf8dm4JUEPQBFJEgLYT2OOubvaLpRp0r_Q?e=PZHETL)
 
+**Duración:**
+- Inicio: 0:02
+- Fin: 4:24
+
+
 **Foto de evidencia de la entrevista:**  
 ![Entrevista Diego](https://github.com/user-attachments/assets/89bb042a-4f46-46fb-82b3-1b6bfde312f8)
 
@@ -291,25 +316,25 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 
 ### **Objetivas**
 
-| **Características**                            | **Gerente (Ingrid y Anderson)**                                              | **Freelancer (Letizia, Rodrigo, y Diego)**                                       |
-|-----------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Interés en gestionar tiempos de trabajo**   | 80% de los gerentes mencionan la importancia de gestionar tiempos y productividad de su equipo. Ingrid destaca la optimización del tiempo de su equipo. Anderson también resalta la importancia de evitar supervisión manual de cada detalle. | 100% busca optimizar sus tiempos de trabajo y obtener pagos por horas trabajadas. Letizia y Rodrigo valoran la gestión del tiempo en su trabajo freelance debido a los plazos establecidos. |
-| **Uso de plataformas tecnológicas para gestión** | 100% de los gerentes usan herramientas para gestionar el personal, aunque Ingrid menciona que busca soluciones más eficientes. Anderson usa aplicaciones internas, pero su enfoque sigue siendo manual en muchos casos. | 90% utiliza plataformas tecnológicas para gestionar proyectos y tareas. Letizia usa ClickUp, aunque la encuentra compleja para nuevos usuarios. Rodrigo usa Excel, pero le gustaría tener mejores herramientas para controlar el tiempo. Diego no mencionó específicamente ninguna plataforma tecnológica, pero indicó que le gustaría tener una herramienta de control de tiempo. |
-| **Necesidad de interacción con otros profesionales** | 100% necesita interactuar con su equipo y otros profesionales. Ingrid subraya la importancia de la comunicación para gestionar tareas. Anderson también menciona la necesidad de interacciones continuas para mejorar el ambiente laboral. | 100% necesita interactuar con otros freelancers y clientes. Letizia usa WhatsApp para la comunicación directa con sus clientes, y Rodrigo subraya la importancia de una buena relación con ellos. |
-| **Búsqueda de un sistema eficiente para pagos** | 90% busca un sistema que le permita controlar pagos y facturación de su equipo. Ingrid enfatiza la necesidad de un control más eficiente, mientras que Anderson menciona que los pagos y la gestión de tareas deben estar conectados de forma más clara. | 66% prefiere recibir pagos rápidos y sin complicaciones. Letizia utiliza billeteras digitales como YAPE y BCP, y Rodrigo usa PayPal como sistema de pago. Diego no menciona explícitamente el sistema de pago, pero resalta la importancia de optimizar el flujo de trabajo. |
-| **Interés en bienestar y salud emocional** | 90% se preocupa por el bienestar emocional de su equipo. Ingrid implementa dinámicas de bienestar con psicólogos, mientras que Anderson se preocupa por el estado emocional de su equipo, aunque de forma más personalizada. | 40% menciona explícitamente bienestar emocional, aunque todos valoran un entorno saludable. Letizia, Rodrigo, y Diego mencionan la importancia de un ambiente sano, pero no enfocan específicamente en el bienestar emocional. |
+| **Características**                            | **Gerente (Ingrid y Anderson)**                                                                                                                                                                                                                                             | **Freelancer (Letizia, Rodrigo, y Diego)**                                                                                                                                                                                                                                                                                                                                                               |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Interés en gestionar tiempos de trabajo**   | Al 80% de los gerentes mencionan la importancia de gestionar tiempos y productividad de su equipo. Ingrid destaca la optimización del tiempo de su equipo. Anderson también resalta la importancia de evitar supervisión manual de cada detalle.                            | El 100% de los entrevistados busca optimizar sus tiempos de trabajo y obtener pagos por horas trabajadas. Letizia y Rodrigo valoran la gestión del tiempo en su trabajo freelance debido a los plazos establecidos.                                                                                                                                                                                      |
+| **Uso de plataformas tecnológicas para gestión** | El 100% de los gerentes usan herramientas para gestionar el personal, aunque Ingrid menciona que busca soluciones más eficientes. Anderson usa aplicaciones internas, pero su enfoque sigue siendo manual en muchos casos.                                                  | El 80% de los freelancers utiliza plataformas tecnológicas para gestionar proyectos y tareas. Letizia usa ClickUp, aunque la encuentra compleja para nuevos usuarios. Rodrigo usa Excel, pero le gustaría tener mejores herramientas para controlar el tiempo. Diego no mencionó específicamente ninguna plataforma tecnológica, pero indicó que le gustaría tener una herramienta de control de tiempo. |
+| **Necesidad de interacción con otros profesionales** | El 100% de los entrevistados necesita interactuar con su equipo y otros profesionales. Ingrid subraya la importancia de la comunicación para gestionar tareas. Anderson también menciona la necesidad de interacciones continuas para mejorar el ambiente laboral.                    | El 100% de los entrevistados necesita interactuar con otros freelancers y clientes. Letizia usa WhatsApp para la comunicación directa con sus clientes, y Rodrigo subraya la importancia de una buena relación con ellos.                                                                                                                                                                                |
+| **Búsqueda de un sistema eficiente para pagos** | El 70% de los gerentes busca un sistema que le permita controlar pagos y facturación de su equipo. Ingrid enfatiza la necesidad de un control más eficiente, mientras que Anderson menciona que los pagos y la gestión de tareas deben estar conectados de forma más clara. | El 66% de los freelancers prefiere recibir pagos rápidos y sin complicaciones. Letizia utiliza billeteras digitales como YAPE y BCP, y Rodrigo usa PayPal como sistema de pago. Diego no menciona explícitamente el sistema de pago, pero resalta la importancia de optimizar el flujo de trabajo.                                                                                                       |
+| **Interés en bienestar y salud emocional** | El 90% de los entrevistados se preocupa por el bienestar emocional de su equipo. Ingrid implementa dinámicas de bienestar con psicólogos, mientras que Anderson se preocupa por el estado emocional de su equipo, aunque de forma más personalizada.                        | El 40% de los freelancers menciona explícitamente bienestar emocional, aunque todos valoran un entorno saludable. Letizia, Rodrigo, y Diego mencionan la importancia de un ambiente sano, pero no enfocan específicamente en el bienestar emocional.                                                                                                                                                     |
 
 ---
 
 ### **Subjetivas**
 
-| **Características**                            | **Gerente**                                              | **Freelancer**                                       |
-|-----------------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Interés en obtener ganancias**              | 100% considera que es vital que su equipo logre maximizar la productividad y las ganancias. Ingrid enfatiza la rentabilidad y eficiencia, mientras que Anderson también busca optimizar la productividad de su equipo. | 100% desea obtener una ganancia adecuada por su trabajo freelance. Letizia, Rodrigo, y Diego mencionan que la motivación detrás de su trabajo es obtener ganancias apropiadas por sus servicios. |
-| **Uso de sistemas de pago transparentes**     | 100% está dispuesta a utilizar plataformas que gestionen pagos de manera eficiente y clara. Ingrid y Anderson coinciden en que un sistema transparente es crucial para la eficiencia laboral. | 66% busca plataformas que ofrezcan pagos seguros y rápidos. Letizia y Rodrigo mencionan que el uso de billeteras digitales como YAPE y PayPal es crucial para la rapidez y seguridad de los pagos. |
-| **Interés en planes de suscripción**          | 70% preferiría tener acceso a opciones de suscripción o pagos periódicos para sus empleados. Ingrid está abierta a explorar sistemas que optimicen la gestión de su personal y sus gastos. Anderson también ve valor en suscripciones como parte de su gestión. | 90% cree que los planes de suscripción son una buena opción para generar ingresos adicionales. Letizia y Rodrigo están interesados en plataformas que ofrezcan suscripciones o pagos mensuales, ya que les facilitaría los pagos recurrentes. |
-| **Búsqueda de información sobre su área**     | 90% busca información sobre tendencias en gestión de equipos y productividad. Ingrid se mantiene actualizada sobre mejores prácticas en la gestión de su equipo. Anderson también valora la actualización constante sobre gestión y productividad. | 66% busca contenido sobre su área específica (ilustración, marketing, desarrollo web). Letizia y Rodrigo investigan constantemente sobre nuevas tendencias y mejores prácticas en su campo de freelance. |
-| **Preferencia por una interfaz intuitiva**    | 90% le gustaría tener una plataforma fácil de usar para gestionar tiempos y tareas del equipo. Ingrid enfatiza la simplicidad en la plataforma para mejorar la eficiencia en la gestión de su equipo. Anderson también valora herramientas fáciles de usar. | 90% también valora plataformas sencillas y amigables para gestionar su trabajo. Letizia subraya que una herramienta sencilla y accesible es clave para su eficiencia, al igual que Rodrigo, quien prefiere plataformas claras y fáciles de entender. |
+| **Características**                            | **Gerente**                                                                                                                                                                                                                                                                             | **Freelancer**                                                                                                                                                                                                                                                               |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Interés en obtener ganancias**              | El 100% de los gerentes considera que es vital que su equipo logre maximizar la productividad y las ganancias. Ingrid enfatiza la rentabilidad y eficiencia, mientras que Anderson también busca optimizar la productividad de su equipo.                                               | El 100% de los freelancers desea obtener una ganancia adecuada por su trabajo freelance. Letizia, Rodrigo, y Diego mencionan que la motivación detrás de su trabajo es obtener ganancias apropiadas por sus servicios.                                                       |
+| **Uso de sistemas de pago transparentes**     | El 100% de los gerentes está dispuesta a utilizar plataformas que gestionen pagos de manera eficiente y clara. Ingrid y Anderson coinciden en que un sistema transparente es crucial para la eficiencia laboral.                                                                        | El 66% de los freelancers busca plataformas que ofrezcan pagos seguros y rápidos. Letizia y Rodrigo mencionan que el uso de billeteras digitales como YAPE y PayPal es crucial para la rapidez y seguridad de los pagos.                                                     |
+| **Interés en planes de suscripción**          | El 70% de los entrevistados preferiría tener acceso a opciones de suscripción o pagos periódicos para sus empleados. Ingrid está abierta a explorar sistemas que optimicen la gestión de su personal y sus gastos. Anderson también ve valor en suscripciones como parte de su gestión. | El 90% de los freelancers cree que los planes de suscripción son una buena opción para generar ingresos adicionales. Letizia y Rodrigo están interesados en plataformas que ofrezcan suscripciones o pagos mensuales, ya que les facilitaría los pagos recurrentes.          |
+| **Búsqueda de información sobre su área**     | El 90% de los gerentes busca información sobre tendencias en gestión de equipos y productividad. Ingrid se mantiene actualizada sobre mejores prácticas en la gestión de su equipo. Anderson también valora la actualización constante sobre gestión y productividad.                   | El 66% de los entrevistados busca contenido sobre su área específica (ilustración, marketing, desarrollo web). Letizia y Rodrigo investigan constantemente sobre nuevas tendencias y mejores prácticas en su campo de freelance.                                             |
+| **Preferencia por una interfaz intuitiva**    | El 90% de los gerentes le gustaría tener una plataforma fácil de usar para gestionar tiempos y tareas del equipo. Ingrid enfatiza la simplicidad en la plataforma para mejorar la eficiencia en la gestión de su equipo. Anderson también valora herramientas fáciles de usar.          | El 90% de los entrevistados también valora plataformas sencillas y amigables para gestionar su trabajo. Letizia subraya que una herramienta sencilla y accesible es clave para su eficiencia, al igual que Rodrigo, quien prefiere plataformas claras y fáciles de entender. |
 
 ---
 
