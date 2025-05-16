@@ -161,7 +161,7 @@ E8-US27 Cambiar información según segmento
 
 #### 5.2.1.3. Sprint Backlog 1.
 
-Durante el Sprint 1, el objetivo principal fue construir una base funcional mínima para el sistema, abordando funcionalidades clave como registro, inicio de sesión, gestión de proyectos y asignación de tareas. Se trabajó con una herramienta de control de tareas basada en tableros tipo Kanban (por ejemplo Trello), en donde cada User Story se descompuso en uno o más work-items o tareas técnicas.
+Durante el Sprint 1, el objetivo principal fue construir una versión funcional de la Landing Page, centrada en proporcionar una experiencia de usuario intuitiva y accesible. Esto incluyó la navegación fluida entre secciones, la posibilidad de alternar entre información para empresas y freelancers, y la visualización de testimonios. El equipo utilizó un tablero Kanban (por ejemplo, Trello) para organizar y seguir el progreso de las tareas, donde cada User Story fue descompuesta en uno o más work-items o tareas técnicas.
 
 ### Sprint Backlog - Sprint 1
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
@@ -274,9 +274,32 @@ En el primer sprint, hemos realizado el diseño, la programación y el despligue
 
 #### 5.2.2.3 Sprint Backlog 2
 
-
+Durante el Sprint 2, el objetivo principal fue desarrollar las interfaces internas de la aplicación Flow Sense, construyendo una experiencia de usuario intuitiva para freelancers que incluye pantallas como registro, inicio de sesión, recuperación de contraseña, resumen diario, gestión de tareas, facturación, cronómetro, proyectos, ajustes, recordatorios y calendario. Estas interfaces se implementaron como diseños visuales de front end, sin lógica de backend, para proporcionar una base sólida para futuras integraciones funcionales. El equipo continuó utilizando Trello como herramienta de control de tareas basada en tableros tipo Kanban, donde cada user story fue descompuesta en uno o más work-items o tareas técnicas, organizadas en columnas como "To Do", "In Progress", "Review" y "Done". Este sprint marcó la transición desde la Landing Page completada en el Sprint 1 hacia las funcionalidades centrales de la aplicación, enfocándose en la usabilidad y consistencia visual.
 
 ### Sprint Backlog - Sprint 2
+
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
+
+Link de Trello: [linl]
+
+[imagen]
+
+| User Story ID | User Story Title | Task ID | Work-Item / Task | Description | Estimation (hrs) | Assigned To | Status |
+|---------------|------------------|---------|------------------|-------------|------------------|-------------|--------|
+| E10-US28 | Registro con selección de plan | TSK-07 | Maquetar formulario de registro | Diseñar formulario con campos para nombre, correo, contraseña, confirmación y selección de planes | 5 | Carlos | Done |
+| E10-US28 | Registro con selección de plan | TSK-08 | Implementar validación visual | Mostrar mensajes de error visuales para contraseñas no coincidentes | 3 | Amir | Review |
+| E10-US29 | Recuperación de contraseña | TSK-09 | Diseñar pantalla de forgot password | Maquetar pantalla con campo de correo y botón "Send Link" | 3 | Stephano | Done |
+| E10-US30 | Visualización del resumen diario en la pantalla de inicio | TSK-10 | Diseñar card de Day Summary | Crear card con horas trabajadas, tareas completadas y porcentaje de productividad | 3 | Joaquín | Done |
+| E10-US31 | Gestión de tareas con filtrado y búsqueda | TSK-11 | Maquetar pantalla de tareas | Diseñar pantalla con buscador, filtros por cliente/proyecto y toolbar (All, Pending, Completed) | 6 | Pietro | In Progress |
+| E10-US31 | Gestión de tareas con filtrado y búsqueda | TSK-12 | Diseñar componente de tarea | Crear fila de tarea con título, importancia, empresa, descripción, etiquetas y botones de edición/eliminación | 4 | Carlos | Review |
+| E10-US32 | Descarga de facturas | TSK-13 | Diseñar card de facturas | Maquetar card con ID, cliente, fecha, monto, estado y botón "Download" | 3 | Amir | Done |
+| E10-US33 | Interacción con el cronómetro en la pantalla de time tracking | TSK-14 | Diseñar cronómetro interactivo | Crear componente de cronómetro con botones "Iniciar" y "Reiniciar" | 2 | Stephano | Done |
+| E10-US34 | Visualización de proyectos en la pantalla de clients/projects | TSK-15 | Maquetar lista de proyectos | Diseñar cards con nombre de proyecto, cliente y estado (Done/No Done) | 3 | Joaquín | Done |
+| E10-US35 | Actualización de perfil en la pantalla de settings | TSK-16 | Diseñar formulario de settings | Maquetar formulario con campos para nombre, correo, tarifa por hora y botón "Save" | 3 | Pietro | Done |
+| E10-US36 | Visualización de recordatorios en la pantalla de inicio | TSK-17 | Diseñar card de recordatorios | Crear card con lista de recordatorios y botón "Add Reminder" | 3 | Carlos | Done |
+| E10-US36 | Visualización de recordatorios en la pantalla de inicio | TSK-18 | Diseñar modal de nuevo recordatorio | Maquetar formulario/modal para agregar un nuevo recordatorio | 3 | Amir | In Progress |
+| E10-US37 | Interacción con el calendario en la pantalla de calendar/schedule | TSK-19 | Maquetar calendario interactivo | Diseñar calendario con mes actual, botones de navegación y eventos/tareas resaltados | 5 | Stephano | In Progress |
+| E10-US37 | Interacción con el calendario en la pantalla de calendar/schedule | TSK-20 | Diseñar vista de día seleccionado | Crear lista de eventos/tareas que aparece al seleccionar un día | 3 | Joaquín | Review |
 
 
 
