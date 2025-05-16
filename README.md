@@ -900,6 +900,7 @@ Para facilitar la localización de información sin búsqueda explícita:
 
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+![WhatsApp Image 2025-05-16 at 2 29 51 PM](https://github.com/user-attachments/assets/74ff6050-8bd7-4030-8137-a9799f7b3ab3)
 
 ### 4.4.3. Web Applications Mock-ups
 
