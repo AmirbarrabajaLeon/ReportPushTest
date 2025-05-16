@@ -280,9 +280,9 @@ Durante el Sprint 2, el objetivo principal fue desarrollar las interfaces intern
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura en Trello y el link al tablero.
 
-Link de Trello: [linl]
+Link de Trello: [https://trello.com/invite/b/682791874c5c711da6745a87/ATTIe2eeebc64ea4934773404641fad9ecc3391B75D4/sprint-backlog-2]
 
-[imagen]
+![image](https://github.com/user-attachments/assets/4ad32d4d-d836-4203-9f98-6fd5f255f587)
 
 | User Story ID | User Story Title | Task ID | Work-Item / Task | Description | Estimation (hrs) | Assigned To | Status |
 |---------------|------------------|---------|------------------|-------------|------------------|-------------|--------|
