@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td colspan="2"></td>
-    <td align="center">Flow Sense<br><img src="" width="100"></td>
+    <td align="center">Flow Sense<br><img src="https://github.com/user-attachments/assets/1f3aca6e-7575-4fd5-8ef4-a11aa5894212" width="100"></td>
     <td align="center">Clockify<br><img src="https://github.com/user-attachments/assets/dd512d66-0f44-4249-8cee-2c6ae54f73bd" width="100"></td>
     <td align="center">Harvest<br><img src="https://github.com/user-attachments/assets/ff575a22-1b16-4be6-8958-db0336079c25" width="100"></td>
     <td align="center">RescueTime<br><img src="https://github.com/user-attachments/assets/b8fb80f9-90f1-4f6b-902a-62bed650bee1" width="100"></td>
