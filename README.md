@@ -4,13 +4,117 @@
 
 ### **2.1.1. Análisis Competitivo**
 
-| **Competidor** | **Fortalezas** | **Debilidades** |
-| --- | --- | --- |
-| Toggl Track | UI amigable, seguimiento de tiempo, integraciones | Falta de automatización, sin IoT |
-| Clockify | Gratuito, multiusuario | Interfaz básica, sin análisis predictivo |
-| Harvest | Facturación integrada | Limitado en automatización e IA |
-| RescueTime | Seguimiento automático | No personalizable, no apto para empresas |
-| ActivTrak | Análisis avanzado, ideal para empresas | Alto costo, difícil implementación para pymes |
+<table>
+  <tr>
+    <td colspan="7" align="center"><strong>Competitive Analysis Landscape</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>¿Por qué llevar a cabo este análisis?</strong></td>
+    <td colspan="6" align="center">
+      Al analizar la competencia en el mercado de herramientas de seguimiento de tiempo, obtenemos una comprensión clara del entorno competitivo en el que se desarrollará nuestro producto. Esto nos ofrece una visión detallada de quiénes son nuestros competidores directos e indirectos, permitiéndonos trazar estrategias basadas en la información recopilada sobre su posicionamiento actual en el mercado.
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td align="center">Flow Sense<br><img src="" width="100"></td>
+    <td align="center">Clockify<br><img src="https://github.com/user-attachments/assets/dd512d66-0f44-4249-8cee-2c6ae54f73bd" width="100"></td>
+    <td align="center">Harvest<br><img src="https://github.com/user-attachments/assets/ff575a22-1b16-4be6-8958-db0336079c25" width="100"></td>
+    <td align="center">RescueTime<br><img src="https://github.com/user-attachments/assets/b8fb80f9-90f1-4f6b-902a-62bed650bee1" width="100"></td>
+    <td align="center">ActivTrak<br><img src="https://github.com/user-attachments/assets/c396ab84-f951-4d86-84ba-e0ad82000d82" width="100"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center"><strong>Perfil</strong></td>
+    <td align="center"><strong>Overview</strong></td>
+    <td align="center">Solución integral que combina IoT, IA y asistentes de voz para gestión avanzada del tiempo y productividad, dirigida a empresas y freelancers.</td>
+    <td align="center">Herramienta gratuita para rastrear horas, gestionar proyectos e informes.</td>
+    <td align="center">Software con seguimiento de tiempo y facturación para PYMEs.</td>
+    <td align="center">App que rastrea automáticamente el tiempo y hábitos de productividad.</td>
+    <td align="center">Solución con IA para análisis de productividad y monitoreo de empleados.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Ventaja Competitiva</strong></td>
+    <td align="center">Automatización con sensores IoT, análisis en tiempo real, integración con asistentes de voz y facturación inteligente para freelancers.</td>
+    <td align="center">Gratis, fácil de usar, API para integraciones.</td>
+    <td align="center">Facturación integrada, ideal para PYMEs.</td>
+    <td align="center">Seguimiento automático, bloqueo de distracciones, metas.</td>
+    <td align="center">Análisis de productividad con IA, paneles personalizables.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" align="center"><strong>Perfil del Marketing</strong></td>
+    <td align="center"><strong>Mercado Objetivo</strong></td>
+    <td align="center">Empresas medianas y grandes, freelancers y profesionales independientes.</td>
+    <td align="center">Equipos de cualquier tamaño.</td>
+    <td align="center">PYMEs con enfoque en facturación.</td>
+    <td align="center">Usuarios que buscan mejorar su productividad.</td>
+    <td align="center">Empresas medianas y grandes.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Estrategias de Marketing</strong></td>
+    <td align="center">Campañas B2B, LinkedIn, convenios con coworkings y ferias tecnológicas, enfoque en demos y onboarding.</td>
+    <td align="center">Blog, recursos educativos, integraciones.</td>
+    <td align="center">Prueba gratis, seminarios web, integraciones.</td>
+    <td align="center">Contenido sobre productividad, pruebas gratuitas.</td>
+    <td align="center">Demostraciones, contenido sobre análisis laboral.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" align="center"><strong>Perfil del Producto</strong></td>
+    <td align="center"><strong>Productos & Servicios</strong></td>
+    <td align="center">Gestión avanzada de tiempo con sensores IoT, análisis de productividad con IA, facturación inteligente, integración con asistentes de voz.</td>
+    <td align="center">Seguimiento, informes, API, multiplataforma.</td>
+    <td align="center">Seguimiento + facturación, proyectos, informes.</td>
+    <td align="center">Seguimiento automático, bloqueo de apps, análisis.</td>
+    <td align="center">Monitoreo, análisis, productividad, multiplataforma.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Precios & Costos</strong></td>
+    <td align="center">Modelo freemium, suscripción mensual por empleado y módulos para empresas, planes premium para freelancers.</td>
+    <td align="center">Gratis básico / Desde $3.99 por usuario.</td>
+    <td align="center">Desde $12 por usuario.</td>
+    <td align="center">Desde $6.50 individual / $6 empresarial.</td>
+    <td align="center">Gratis limitado / Desde $9 por usuario.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Canales Web y Móvil</strong></td>
+    <td align="center">Web, iOS, Android, escritorio, integración con dispositivos IoT y asistentes de voz.</td>
+    <td align="center">Web, iOS, Android, escritorio, extensión.</td>
+    <td align="center">Web, iOS, Android, escritorio.</td>
+    <td align="center">Web, iOS, Android, escritorio.</td>
+    <td align="center">Web, iOS, Android, escritorio.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" align="center"><strong>SWOT</strong></td>
+    <td align="center"><strong>Fortalezas</strong></td>
+    <td align="center">Integración avanzada con IoT e IA, doble enfoque para empresas y freelancers, automatización inteligente.</td>
+    <td align="center">Gratis, escalable, API potente.</td>
+    <td align="center">Facturación y seguimiento integrados.</td>
+    <td align="center">Seguimiento automático, análisis personal.</td>
+    <td align="center">IA para análisis de productividad.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Oportunidades</strong></td>
+    <td align="center">Expansión en mercados empresariales y freelancers, alianzas con coworkings y plataformas IoT.</td>
+    <td align="center">Ampliar integraciones con CRMs.</td>
+    <td align="center">Adición de IA para informes inteligentes.</td>
+    <td align="center">Integrarse con herramientas de bienestar.</td>
+    <td align="center">Automatizar más procesos con IA.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Debilidades</strong></td>
+    <td align="center">Complejidad inicial, posible resistencia a sensores IoT, privacidad y adopción.</td>
+    <td align="center">Falta de funciones avanzadas.</td>
+    <td align="center">Curva de aprendizaje para nuevos usuarios.</td>
+    <td align="center">Privacidad puede ser un problema.</td>
+    <td align="center">Complejidad para usuarios pequeños.</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Amenazas</strong></td>
+    <td align="center">Preocupaciones por privacidad, competencia con grandes plataformas consolidadas.</td>
+    <td align="center">Entrada de nuevas herramientas gratuitas.</td>
+    <td align="center">Competidores con mejores precios.</td>
+    <td align="center">Cambios en políticas de privacidad.</td>
+    <td align="center">Regulaciones de privacidad laboral.</td>
+  </tr>
+</table>
 
 ---
 ### **2.2. Entrevistas**
