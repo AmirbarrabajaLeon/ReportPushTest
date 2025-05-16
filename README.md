@@ -345,38 +345,26 @@ En resumen, Diego busca una herramienta integral que le permita gestionar su tie
 ## 2.3.1. User Personas 
 
 ### Segmento 1: Gerente
-![User Persona Gerente](https://github.com/user-attachments/assets/886b8660-4432-48d7-9b8f-e2abbea3484b)
+![Gerente User Persona](https://github.com/user-attachments/assets/f7a69eba-9300-4650-aad6-ed52ef50075c)
+
 
 
 ### Segmento 2: Freelancer  
-![User Persona Freelancer](https://github.com/user-attachments/assets/e3c71aec-4306-43db-ba76-27fe83f60070)
+![Freelancer User persona](https://github.com/user-attachments/assets/859cdf97-d71b-44cf-b73c-2f06c0051ec1)
+
 
 
 ## 2.3.2. User Task Matrix  
 A continuación se pueden apreciar los User Task Matrix de los segmentos objetivos.
 
-### User Persona: Freelancer  
-**Segmento Objetivo**: Freelancer entre 18 años a más  
-
-| **Task**                         | **Frequency** | **Importance** |
-|----------------------------------|---------------|----------------|
-| Registrar nuevos clientes        | High          | High           |
-| Gestionar proyectos y asignar tareas | High          | High           |
-| Controlar tiempo de trabajo      | High          | High           |
-| Recibir retroalimentación de clientes | Medium        | High           |
-| Buscar y establecer nuevos contratos | Medium        | High           |
-
-
-### User Persona: Gerente  
-**Segmento Objetivo**: Gerentes entre 30 años a más  
-
-| **Task**                         | **Frequency** | **Importance** |
-|----------------------------------|---------------|----------------|
-| Asignar tareas a empleados       | High          | High           |
-| Supervisar el progreso del equipo| High          | High           |
-| Gestionar horarios de los empleados | High          | High           |
-| Ver la productividad en tiempo real | Medium        | High           |
-| Realizar pagos a empleados       | Medium        | High           |
+| **Freelancer**                                  |                        | **Gerente**                                  |                      |
+|------------------------------------------------|------------------------|---------------------------------------------|----------------------|
+| **Task**                                       | **Frequency / Importance** | **Task**                                   | **Frequency / Importance** |
+| Registrar nuevos clientes                      | High / High             | Asignar tareas a empleados                  | High / High          |
+| Gestionar proyectos y asignar tareas           | High / High             | Supervisar el progreso del equipo           | High / High          |
+| Controlar tiempo de trabajo                     | High / High             | Gestionar horarios de los empleados          | High / High          |
+| Recibir retroalimentación de clientes          | Medium / High           | Ver la productividad en tiempo real          | Medium / High        |
+| Buscar y establecer nuevos contratos            | Medium / High           | Realizar pagos a empleados                    | Medium / High        |
 
 # 2.3.3. User Journey Mapping  
 A continuación estarán los User Journey Mapping de los segmentos objetivos.
@@ -396,11 +384,13 @@ A continuación estarán los User Journey Mapping de los segmentos objetivos.
 A continuación estarán los Empathy Mapping de los segmentos objetivos.
 
 ### Segmento gerente:
-![Empathy Mapping Gerente](https://github.com/user-attachments/assets/45a39392-10f3-435c-809f-8cba68caafb8)
+![Empathy map Gerente](https://github.com/user-attachments/assets/5dc9e131-6a64-4f4d-8147-05d28dba3428)
+
 
 
 ### Segmento freelancer:
-![Empathy Mapping](https://github.com/user-attachments/assets/3b1eb95b-cdfa-4f3c-a61c-177ecfabe8bb)
+
+![Empathy map Freelancer](https://github.com/user-attachments/assets/01263da3-ea39-49dd-9ba4-e8c73ab2f7db)
 
 
 
