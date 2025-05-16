@@ -262,8 +262,8 @@ En el primer sprint, hemos realizado el diseño, la programación y el despligue
 | Team Member          | GitHub Username | Gestión de Proyectos | Landing Page | Frontend Web App | Despliegue | Testing & QA |
 | -------------------- | --------------- | -------------------- | ------------ | ---------------- | ---------- | ------------ |
 | Pietro Osores        | Maximoff19  | L                    | C            | L                | C          | C            |
-| Amir Castro          | \[A COMPLETAR]  | C                    | C            | C                | L          | L            |
-| Carlos \[Apellido]   | \[A COMPLETAR]  | C                    | L            | C                | C          | C            |
+| Amir Castro          | \[A COMPLETAR]  | C                    | C            | C                | C          | L            |
+| Carlos \[Apellido]   | \[A COMPLETAR]  | C                    | L            | C                | L          | C            |
 | Stephano \[Apellido] | \[A COMPLETAR]  | C                    | L            | C                | C          | C            |
 | Joaquín \[Apellido]  | \[A COMPLETAR]  | L                    | C            | C                | C          | L            |
 
