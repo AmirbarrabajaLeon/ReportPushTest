@@ -48,7 +48,53 @@ La **misión** de Flow Sense es transformar la manera en que las personas y las 
   </table>
 </body>
 </html>
+<section>
+  <h2>1.2.1 Antecedentes y problemática</h2>
+  <p>
+    A continuación se presenta la aplicación de la técnica <strong>5W + 2H</strong> (Who, What, Where, When, Why, How y How Much),
+    utilizada para analizar de manera estructurada los antecedentes y la problemática del proyecto <em>Flow Sense</em>.
+  </p>
 
+  <h3>Aplicación de la técnica 5W + 2H</h3>
+  <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 100%;">
+    <thead style="background-color: #f2f2f2;">
+      <tr>
+        <th style="text-align: left;">Pregunta</th>
+        <th style="text-align: left;">Respuesta</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Who</strong><br><em>¿Quién?</em></td>
+        <td>Empresas (especialmente pymes), supervisores y trabajadores independientes (freelancers) que buscan optimizar su tiempo y productividad.</td>
+      </tr>
+      <tr>
+        <td><strong>What</strong><br><em>¿Qué?</em></td>
+        <td>La falta de una solución integral y adaptativa que permita controlar el tiempo de trabajo, automatizar tareas, monitorear el entorno laboral y facilitar la gestión de proyectos en un solo sistema.</td>
+      </tr>
+      <tr>
+        <td><strong>Where</strong><br><em>¿Dónde?</em></td>
+        <td>En entornos laborales digitales o híbridos: oficinas, espacios de coworking y entornos remotos (hogares, cafés, etc.).</td>
+      </tr>
+      <tr>
+        <td><strong>When</strong><br><em>¿Cuándo?</em></td>
+        <td>En momentos clave de la jornada laboral: inicio de turnos, cambio de actividades, reuniones, entrega de proyectos y reportes.</td>
+      </tr>
+      <tr>
+        <td><strong>Why</strong><br><em>¿Por qué?</em></td>
+        <td>Porque las soluciones actuales son fragmentadas, poco intuitivas o no se adaptan a las necesidades cambiantes del mercado laboral moderno. Esto ocasiona pérdida de tiempo, baja visibilidad para los supervisores y desorganización para los freelancers.</td>
+      </tr>
+      <tr>
+        <td><strong>How</strong><br><em>¿Cómo?</em></td>
+        <td>A través de un sistema inteligente con sensores, automatización de turnos, seguimiento de tareas, reportes personalizados y sincronización con asistentes de voz y apps de terceros.</td>
+      </tr>
+      <tr>
+        <td><strong>How Much</strong><br><em>¿Cuánto?</em></td>
+        <td>Las pérdidas por baja productividad pueden costar a las empresas miles de dólares anuales por empleado. En freelancers, se traduce en oportunidades perdidas, tiempos no facturados y desorganización en la gestión de sus servicios.</td>
+      </tr>
+    </tbody>
+  </table>
+</section>
 ## **1.2.2. Lean UX Process**
 
 El enfoque Lean UX nos ha permitido definir con claridad los problemas clave, entender las suposiciones tanto del negocio como de los usuarios, y plantear hipótesis que guiarán el diseño de nuestro producto, minimizando el desperdicio de recursos y optimizando el aprendizaje continuo.
@@ -231,6 +277,8 @@ Creemos que al proporcionar una experiencia intuitiva y flexible, lograremos que
 Creemos que al fomentar la integración con dispositivos personales, Flow Sense se volverá una extensión natural del día a día del usuario.
 
 **Sabremos que hemos tenido éxito** cuando más del 60% de usuarios activen al menos una integración con su dispositivo o asistente personal.
+
+---
 
 ---
 
