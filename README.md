@@ -50,11 +50,7 @@ La **misión** de Flow Sense es transformar la manera en que las personas y las 
 </html>
 <section>
   <h2>1.2.1 Antecedentes y problemática</h2>
-  <p>
-    A continuación se presenta la aplicación de la técnica <strong>5W + 2H</strong> (Who, What, Where, When, Why, How y How Much),
-    utilizada para analizar de manera estructurada los antecedentes y la problemática del proyecto <em>Flow Sense</em>.
-  </p>
-
+ 
   <h3>Aplicación de la técnica 5W + 2H</h3>
   <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 100%;">
     <thead style="background-color: #f2f2f2;">
